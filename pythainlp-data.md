@@ -9,6 +9,7 @@
 - ฐานข้อมูลในเครื่องผู้ใช้งานชื่อ db.json ใช้ tinydb
 - ระเบียบคลังข้อมูลอยู่ที่  https://github.com/PyThaiNLP/pythainlp-corpus
 - ใช้ tqdm แสดงสถานะการโหลด
+- ที่ตั้งของโฟลเดอร์ pythainlp-data อยู่ที่ ~ หรือโฟลเดอร์หลักของผู้ใช้ โฟลเดอร์ pythainlp-data เป็นที่เก็บคลังและ db.json
 
 ## เรียกใช้งาน
 
