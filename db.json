@@ -2,11 +2,12 @@
     "thai2vec":{
         "name":"thai2vec",
         "file_name":"thai2vec.vec",
-        "version":"0.1.1",
-        "download":"https://www.dropbox.com/s/upnbmiebkfma7oy/thai2vec.vec?dl=1",
-        "text":"-",
+        "version":"0.2",
+        "download":"hhttps://www.dropbox.com/sh/t9qfj2ethst8g20/AACO7pgFHEumWiSGQnMFVxsTa/v0.2/word2vec?dl=1",
+        "text":"State-of-the-Art Language Modeling, Text Feature Extraction and Text Classification in Thai Language. Created as part of pyThaiNLP with ULMFit implementation from fast.ai ",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec"
+        "homepage":"https://github.com/cstorm125/thai2vec",
+        "authors":"Charin Polpanumas"
     }
 }
