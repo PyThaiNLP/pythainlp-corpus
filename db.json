@@ -2,7 +2,7 @@
     "thai2vec":{
         "name":"thai2vec",
         "file_name":"thai2vec.vec",
-        "version":"0.1",
+        "version":"0.1.1",
         "download":"https://www.dropbox.com/s/upnbmiebkfma7oy/thai2vec.vec?dl=1",
         "text":"-",
         "md5":"-",
