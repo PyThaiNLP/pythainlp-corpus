@@ -53,7 +53,7 @@
         "about":"-",
         "homepage":"https://github.com/cstorm125/thai2vec",
         "authors":"Charin Polpanumas"
-    }
+    },
         "tnc_freq":{
         "name":"tnc_freq",
         "file_name":"tnc_freq.txt",
@@ -64,5 +64,5 @@
         "about":"-",
         "homepage":"https://github.com/korakot/thainlp",
         "authors":"Korakot Chaovavanich"
-    },
+    }
 }
