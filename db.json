@@ -64,5 +64,27 @@
         "about":"-",
         "homepage":"https://github.com/korakot/thainlp",
         "authors":"Korakot Chaovavanich"
-    }
+    },
+        "sent_model":{
+        "name":"sent_model",
+        "file_name":"sent_model.h5",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/0hogrcec27sz65g/sent_model.h5?dl=1",
+        "text":"Pytorch model for sentiment analysis based on ULMFit and various online review datasets",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2vec",
+        "authors":"Charin Polpanumas"
+    },
+        "itos_sent":{
+        "name":"itos_sent",
+        "file_name":"itos_sent.pkl",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/koq6d4nlamcihp7/itos_sent.pkl?dl=1",
+        "text":"Index to text for sentiment analysis based on ULMFit and various online review datasets",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2vec",
+        "authors":"Charin Polpanumas"
+    }    
 }
