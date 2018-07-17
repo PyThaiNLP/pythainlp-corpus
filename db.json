@@ -32,9 +32,9 @@
         "homepage":"https://github.com/cstorm125/thai2vec",
         "authors":"Charin Polpanumas"
     },
-        "thaiwiki_enc2":{
+        "thwiki_enc2":{
         "name":"thaiwiki_enc2",
-        "file_name":"thaiwiki_enc2.h5",
+        "file_name":"thwiki_enc2.h5",
         "version":"0.2",
         "download":"https://www.dropbox.com/s/qlzl38gbn96pt0q/thwiki_enc2.h5?dl=1",
         "text":"Wiki-pretrained ULMFit encoder",
