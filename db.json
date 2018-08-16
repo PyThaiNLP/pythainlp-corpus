@@ -86,5 +86,27 @@
         "about":"-",
         "homepage":"https://github.com/cstorm125/thai2vec",
         "authors":"Charin Polpanumas"
-    }    
+    },
+        "thai2rom-dataset":{
+        "name":"thai2rom-dataset",
+        "file_name":"thai2rom.csv",
+        "version":"0.1",
+        "download":"https://raw.githubusercontent.com/wannaphongcom/thai-romanization/master/dataset/data.csv",
+        "text":"-",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/wannaphongcom/thai-romanization",
+        "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "thai2rom":{
+        "name":"thai2rom",
+        "file_name":"thai2rom.hdf5",
+        "version":"0.1",
+        "download":"https://raw.githubusercontent.com/wannaphongcom/thai-romanization/master/model/thai2rom.hdf5",
+        "text":"-",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/wannaphongcom/thai-romanization",
+        "authors":"Wannaphong Phatthiyaphaibun"
+    }
 }
