@@ -112,12 +112,12 @@
         "thainer":{
         "name":"thainer",
         "file_name":"thainer.model",
-        "version":"0.1",
-        "download":"https://github.com/wannaphongcom/thai-ner/raw/master/model/0.1/thainer-0.1.model",
+        "version":"0.2",
+        "download":"https://github.com/wannaphongcom/thai-ner/raw/master/model/0.2/thainer-0.2.model",
         "text":"-",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/wannaphongcom/lab-thai-ner",
+        "homepage":"https://github.com/wannaphongcom/thai-ner/",
         "authors":"Wannaphong Phatthiyaphaibun"
     }
 }
