@@ -1,1 +1,1 @@
-# pythainlp-corpus
+# PyThaiNLP Corpus
