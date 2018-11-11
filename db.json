@@ -119,5 +119,16 @@
         "about":"-",
         "homepage":"https://github.com/wannaphongcom/thai-ner/",
         "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "test":{
+        "name":"test",
+        "file_name":"test.txt",
+        "version":"0.1",
+        "download":"https://raw.githubusercontent.com/PyThaiNLP/pythainlp-corpus/master/test.txt",
+        "text":"It's test file.",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/PyThaiNLP/pythainlp-corpus",
+        "authors":"Wannaphong Phatthiyaphaibun"
     }
 }
