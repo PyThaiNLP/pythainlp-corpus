@@ -97,5 +97,82 @@
         "about":"-",
         "homepage":"https://github.com/PyThaiNLP/pythainlp-corpus",
         "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "thai2vec":{
+        "name":"thai2vec",
+        "file_name":"thai2vec.vec",
+        "version":"0.1",
+        "download":"https://www.dropbox.com/s/upnbmiebkfma7oy/thai2vec.vec?dl=1",
+        "text":"thai2vec word embeddings",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "thai2vec02":{
+        "name":"thai2vec02",
+        "file_name":"thai2vec02.vec",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/ci7dnmhp9l2f8i6/thai2vec02.vec?dl=1",
+        "text":"thai2vec word embeddings",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "itos":{
+        "name":"itos",
+        "file_name":"itos.pkl",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/vg13tb0sv5hvymu/itos.pkl?dl=1",
+        "text":"ULMFit index to text",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "thwiki_enc2":{
+        "name":"thaiwiki_enc2",
+        "file_name":"thwiki_enc2.h5",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/qlzl38gbn96pt0q/thwiki_enc2.h5?dl=1",
+        "text":"Wiki-pretrained ULMFit encoder",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "thwiki_model2":{
+        "name":"thwiki_model2",
+        "file_name":"thwiki_model2.h5",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/sey9u7pwdmsf3rq/thwiki_model2.h5?dl=1",
+        "text":"Wiki-pretrained ULMFit language model",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "sent_model":{
+        "name":"sent_model",
+        "file_name":"sent_model.h5",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/0hogrcec27sz65g/sent_model.h5?dl=1",
+        "text":"Pytorch model for sentiment analysis based on ULMFit and various online review datasets",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "itos_sent":{
+        "name":"itos_sent",
+        "file_name":"itos_sent.pkl",
+        "version":"0.2",
+        "download":"https://www.dropbox.com/s/koq6d4nlamcihp7/itos_sent.pkl?dl=1",
+        "text":"Index to text for sentiment analysis based on ULMFit and various online review datasets",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
     }
 }
