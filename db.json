@@ -1,57 +1,46 @@
-{
-        "thai2vec":{
-        "name":"thai2vec",
-        "file_name":"thai2vec.vec",
-        "version":"0.1",
-        "download":"https://www.dropbox.com/s/upnbmiebkfma7oy/thai2vec.vec?dl=1",
+{       
+        "thai2fit_wv":{
+        "name":"thai2fit_wv",
+        "file_name":"thai2vec.bin",
+        "version":"0.3",
+        "download":"",
         "text":"thai2vec word embeddings",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
+        "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "thai2vec02":{
-        "name":"thai2vec02",
-        "file_name":"thai2vec02.vec",
-        "version":"0.2",
-        "download":"https://www.dropbox.com/s/ci7dnmhp9l2f8i6/thai2vec02.vec?dl=1",
-        "text":"thai2vec word embeddings",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
-        "authors":"Charin Polpanumas"
-    },
-        "itos":{
-        "name":"itos",
+        "thai2fit_itos":{
+        "name":"thai2fit_itos",
         "file_name":"itos.pkl",
-        "version":"0.2",
-        "download":"https://www.dropbox.com/s/vg13tb0sv5hvymu/itos.pkl?dl=1",
+        "version":"0.3",
+        "download":"",
         "text":"ULMFit index to text",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
+        "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "thwiki_enc2":{
-        "name":"thaiwiki_enc2",
-        "file_name":"thwiki_enc2.h5",
-        "version":"0.2",
-        "download":"https://www.dropbox.com/s/qlzl38gbn96pt0q/thwiki_enc2.h5?dl=1",
+        "thai2fit_enc":{
+        "name":"thai2fit_enc",
+        "file_name":"thwiki_enc_1.pth",
+        "version":"0.3",
+        "download":"",
         "text":"Wiki-pretrained ULMFit encoder",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
+        "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "thwiki_model2":{
-        "name":"thwiki_model2",
-        "file_name":"thwiki_model2.h5",
-        "version":"0.2",
-        "download":"https://www.dropbox.com/s/sey9u7pwdmsf3rq/thwiki_model2.h5?dl=1",
+        "thai2fit_lm":{
+        "name":"thai2fit_lm",
+        "file_name":"thwiki_model_1.pth",
+        "version":"0.3",
+        "download":"",
         "text":"Wiki-pretrained ULMFit language model",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
+        "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
         "tnc_freq":{
@@ -64,28 +53,6 @@
         "about":"-",
         "homepage":"https://github.com/korakot/thainlp",
         "authors":"Korakot Chaovavanich"
-    },
-        "sent_model":{
-        "name":"sent_model",
-        "file_name":"sent_model.h5",
-        "version":"0.2",
-        "download":"https://www.dropbox.com/s/0hogrcec27sz65g/sent_model.h5?dl=1",
-        "text":"Pytorch model for sentiment analysis based on ULMFit and various online review datasets",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
-        "authors":"Charin Polpanumas"
-    },
-        "itos_sent":{
-        "name":"itos_sent",
-        "file_name":"itos_sent.pkl",
-        "version":"0.2",
-        "download":"https://www.dropbox.com/s/koq6d4nlamcihp7/itos_sent.pkl?dl=1",
-        "text":"Index to text for sentiment analysis based on ULMFit and various online review datasets",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2vec",
-        "authors":"Charin Polpanumas"
     },
         "thai2rom-dataset":{
         "name":"thai2rom-dataset",
