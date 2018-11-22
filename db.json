@@ -47,7 +47,7 @@
         "name":"wiki_lm_lstm",
         "file_name":"thwiki_model_lstm.pth",
         "version":"0.3",
-        "download":"https://www.dropbox.com/s/d4la3a9l61nwtkm/itos_lstm.pkl?dl=1",
+        "download":"https://www.dropbox.com/s/d4la3a9l61nwtkm/thwiki_model_lstm.pkl?dl=1",
         "text":"Wiki-pretrained ULMFit language model for LSTM",
         "md5":"-",
         "about":"-",
