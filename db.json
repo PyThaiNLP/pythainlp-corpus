@@ -10,34 +10,45 @@
         "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "thai2fit_itos":{
-        "name":"thai2fit_itos",
-        "file_name":"itos.pkl",
+        "wiki_itos_qrnn":{
+        "name":"wiki_itos_qrnn",
+        "file_name":"itos_qrnn.pkl",
         "version":"0.3",
-        "download":"https://www.dropbox.com/s/vl10r1khgek6zxg/itos.pkl?dl=1",
-        "text":"ULMFit index to text",
+        "download":"https://www.dropbox.com/s/vl10r1khgek6zxg/itos_qrnn.pkl?dl=1",
+        "text":"ULMFit index to text for QRNN",
         "md5":"-",
         "about":"-",
         "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "thai2fit_enc":{
-        "name":"thai2fit_enc",
-        "file_name":"thwiki_enc_1.pth",
+        "wiki_lm_qrnn":{
+        "name":"wiki_lm_qrnn",
+        "file_name":"thwiki_model_qrnn.pth",
         "version":"0.3",
-        "download":"https://www.dropbox.com/s/zi50qttztlslmdi/thwiki_enc_1.pth?dl=1",
-        "text":"Wiki-pretrained ULMFit encoder",
+        "download":"https://www.dropbox.com/s/mhj31q3eg2faw8t/thwiki_model_qrnn.pth?dl=1",
+        "text":"Wiki-pretrained ULMFit language model for QRNN",
         "md5":"-",
         "about":"-",
         "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "thai2fit_lm":{
-        "name":"thai2fit_lm",
-        "file_name":"thwiki_model_1.pth",
+        "wiki_itos_lstm":{
+        "name":"wiki_itos_lstm",
+        "file_name":"itos_lstm.pkl",
         "version":"0.3",
-        "download":"https://www.dropbox.com/s/mhj31q3eg2faw8t/thwiki_model_1.pth?dl=1",
-        "text":"Wiki-pretrained ULMFit language model",
+        "download":"https://www.dropbox.com/s/d4la3a9l61nwtkm/itos_lstm.pkl?dl=1",
+        "text":"ULMFit index to text for LSTM",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/cstorm125/thai2fit",
+        "authors":"Charin Polpanumas"
+    },
+        "wiki_lm_lstm":{
+        "name":"wiki_lm_lstm",
+        "file_name":"thwiki_model_lstm.pth",
+        "version":"0.3",
+        "download":"",
+        "text":"Wiki-pretrained ULMFit language model for LSTM",
         "md5":"-",
         "about":"-",
         "homepage":"https://github.com/cstorm125/thai2fit",
