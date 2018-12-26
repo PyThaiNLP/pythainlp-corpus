@@ -90,8 +90,8 @@
         "thainer":{
         "name":"thainer",
         "file_name":"thainer.model",
-        "version":"0.4",
-        "download":"https://github.com/wannaphongcom/thai-ner/blob/master/model/0.4/data.model?raw=true",
+        "version":"0.44",
+        "download":"https://github.com/wannaphongcom/thai-ner/blob/master/model/0.44/data.model?raw=true",
         "text":"Thai Named Entity Recognition For PyThaiNLP",
         "md5":"-",
         "about":"-",
