@@ -109,6 +109,17 @@
         "homepage":"https://github.com/korakot/thainlp",
         "authors":"Korakot Chaovavanich"
     },
+        "ttc":{
+        "name":"ttc",
+        "file_name":"ttc_freq.txt",
+        "version":"0.1",
+        "download":"https://raw.githubusercontent.com/korakot/thainlp/master/ttc_freq.txt",
+        "text":"TTC Freq",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/korakot/thainlp",
+        "authors":"Korakot Chaovavanich"
+    },
         "test":{
         "name":"test",
         "file_name":"test.txt",
