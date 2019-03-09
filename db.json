@@ -2,7 +2,7 @@
         "thai2fit_wv":{
         "name":"thai2fit_wv",
         "file_name":"thai2vec.bin",
-        "version":"0.31",
+        "version":"0.1",
         "download":"https://www.dropbox.com/s/rtltafyi3fv86kl/thai2vec.bin?dl=1",
         "text":"thai2vec word embeddings",
         "md5":"-",
@@ -13,8 +13,8 @@
         "wiki_itos_lstm":{
         "name":"wiki_itos_lstm",
         "file_name":"itos_lstm.pkl",
-        "version":"0.31",
-        "download":"https://www.dropbox.com/s/pyvz4qvdykz9avj/thwiki_itos.pkl?dl=1",
+        "version":"0.32",
+        "download":"https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
         "text":"ULMFit index to text for LSTM",
         "md5":"-",
         "about":"-",
@@ -24,8 +24,8 @@
         "wiki_lm_lstm":{
         "name":"wiki_lm_lstm",
         "file_name":"thwiki_model_lstm.pth",
-        "version":"0.31",
-        "download":"https://www.dropbox.com/s/9qug3tl0g3jj9sc/thwiki_lm.pth?dl=1",
+        "version":"0.32",
+        "download":"https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
         "text":"Wiki-pretrained ULMFit language model for LSTM",
         "md5":"-",
         "about":"-",
