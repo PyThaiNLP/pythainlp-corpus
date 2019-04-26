@@ -65,6 +65,17 @@
         "homepage":"https://github.com/wannaphongcom/thai-romanization",
         "authors":"Wannaphong Phatthiyaphaibun"
     },
+        "thai2rom-v2":{
+        "name":"thai2rom-v2",
+        "file_name":"thai2rom-v2.hdf5",
+        "version":"2.0",
+        "download":"https://github.com/wannaphongcom/thai-romanization/raw/master/model/thai2rom-v2.hdf5",
+        "text":"-",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/wannaphongcom/thai-romanization",
+        "authors":"Wannaphong Phatthiyaphaibun"
+    },
         "thainer":{
         "name":"thainer",
         "file_name":"thainer.model",
