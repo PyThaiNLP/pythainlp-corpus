@@ -119,5 +119,27 @@
         "about":"-",
         "homepage":"https://github.com/PyThaiNLP/pythainlp-corpus",
         "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "male_names_th":{
+        "name":"male_names_th",
+        "file_name":"male_names_th.txt",
+        "version":"0.1",
+        "download":"https://raw.githubusercontent.com/korkeatw/thai-names-corpus/master/male_names_th.txt",
+        "text":"Thai male names",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/korkeatw/thai-names-corpus",
+        "authors":"Korkeat Wannapat"
+    },
+        "female_names_th":{
+        "name":"female_names_th",
+        "file_name":"female_names_th.txt",
+        "version":"0.1",
+        "download":"https://raw.githubusercontent.com/korkeatw/thai-names-corpus/master/female_names_th.txt",
+        "text":"Thai female names",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/korkeatw/thai-names-corpus",
+        "authors":"Korkeat Wannapat"
     }
 }
