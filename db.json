@@ -1,4 +1,4 @@
-{       
+{
         "thai2fit_wv":{
         "name":"thai2fit_wv",
         "file_name":"thai2vec.bin",
@@ -75,6 +75,17 @@
         "about":"-",
         "homepage":"https://github.com/wannaphongcom/thai-romanization",
         "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "thai2rom-pytorch":{
+        "name":"thai2rom-pytorch",
+        "file_name":"thai2rom-pytorch.tar",
+        "version":"0.1",
+        "download":"https://github.com/c4n/thai-romanization/raw/master/notebook/torchthai2rom.tar",
+        "text":"-",
+        "md5":"-",
+        "about":"LSTM encoder-decoder model",
+        "homepage":"https://github.com/c4n/thai-romanization/",
+        "authors":"Can Udomcharoenchaikit"
     },
         "thainer":{
         "name":"thainer",
