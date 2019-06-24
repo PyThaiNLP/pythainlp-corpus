@@ -80,7 +80,7 @@
         "name":"thai2rom-pytorch",
         "file_name":"thai2rom-pytorch.tar",
         "version":"0.1",
-        "download":"https://github.com/c4n/thai-romanization/raw/master/notebook/torchthai2rom.tar",
+        "download":"https://github.com/c4n/thai-romanization/raw/master/notebook/thai2rom-pytorch.tar",
         "text":"-",
         "md5":"-",
         "about":"LSTM encoder-decoder model",
