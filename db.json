@@ -76,6 +76,17 @@
         "homepage":"https://github.com/wannaphongcom/thai-ner/",
         "authors":"Wannaphong Phatthiyaphaibun"
     },
+        "thainer-1-2":{
+        "name":"thainer",
+        "file_name":"thainer.model",
+        "version":"1.2",
+        "download":"https://github.com/wannaphongcom/thai-ner/blob/master/model/1.2/data.model?raw=true",
+        "text":"Thai Named Entity Recognition For PyThaiNLP",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/wannaphongcom/thai-ner/",
+        "authors":"Wannaphong Phatthiyaphaibun"
+    },
         "tnc":{
         "name":"tnc",
         "file_name":"tnc_freq.txt",
