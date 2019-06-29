@@ -78,12 +78,12 @@
     },
         "thai2rom-pytorch": {
         "name":"thai2rom-pytorch",
-        "file_name":"thai2rom-pytorch.v1.1.tar",
-        "version":"1.1",
+        "file_name":"thai2rom-pytorch.v0.2.tar",
+        "version":"0.2",
         "download":"https://www.dropbox.com/s/bzrmhda3szq3u9y/thai2rom-pytorch.v1.1.tar?dl=1",
         "text":"Thai romanization model",
         "md5":"-",
-        "about":"-",
+        "about":"LSTM encoder-decoder model",
         "homepage":"https://github.com/c4n/thai-romanization",
         "authors":"Can Udomcharoenchaikit"
     },
