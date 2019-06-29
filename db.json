@@ -76,6 +76,17 @@
         "homepage":"https://github.com/wannaphongcom/thai-romanization",
         "authors":"Wannaphong Phatthiyaphaibun"
     },
+        "thai2rom-pytorch": {
+        "name":"thai2rom-pytorch",
+        "file_name":"thai2rom-pytorch.v1.1.tar",
+        "version":"1.1",
+        "download":"https://www.dropbox.com/s/bzrmhda3szq3u9y/thai2rom-pytorch.v1.1.tar?dl=0",
+        "text":"Thai romanization model",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/c4n/thai-romanization",
+        "authors":"Can Udomcharoenchaikit"
+    },
         "thainer":{
         "name":"thainer",
         "file_name":"thainer.model",
