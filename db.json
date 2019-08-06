@@ -87,6 +87,17 @@
         "homepage":"https://github.com/c4n/thai-romanization/",
         "authors":"Can Udomcharoenchaikit"
     },
+        "thai2rom-pytorch-attn":{
+        "name":"thai2rom-pytorch-attn",
+        "file_name":"thai2rom-pytorch-attn-v0.1.tar",
+        "version":"0.1",
+        "download":"https://github.com/artificiala/thai-romanization/raw/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
+        "text":"-",
+        "md5":"-",
+        "about":"LSTM encoder-decoder model with attention mechanism",
+        "homepage":"https://github.com/artificiala/thai-romanization",
+        "authors":"Chakri Lowphansirikul"
+    },
         "thainer":{
         "name":"thainer",
         "file_name":"thainer.model",
