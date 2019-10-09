@@ -32,17 +32,6 @@
         "homepage":"https://github.com/cstorm125/thai2fit",
         "authors":"Charin Polpanumas"
     },
-        "tnc_freq":{
-        "name":"tnc_freq",
-        "file_name":"tnc_freq.txt",
-        "version":"15112017",
-        "download":"https://github.com/korakot/thainlp/raw/master/tnc_freq.txt",
-        "text":"-",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/korakot/thainlp",
-        "authors":"Korakot Chaovavanich"
-    },
         "thai2rom-dataset":{
         "name":"thai2rom-dataset",
         "file_name":"thai2rom.csv",
@@ -119,28 +108,6 @@
         "about":"-",
         "homepage":"https://github.com/wannaphongcom/thai-ner/",
         "authors":"Wannaphong Phatthiyaphaibun"
-    },
-        "tnc":{
-        "name":"tnc",
-        "file_name":"tnc_freq.txt",
-        "version":"0.1",
-        "download":"https://raw.githubusercontent.com/korakot/thainlp/master/tnc_freq.txt",
-        "text":"TNC Freq",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/korakot/thainlp",
-        "authors":"Korakot Chaovavanich"
-    },
-        "ttc":{
-        "name":"ttc",
-        "file_name":"ttc_freq.txt",
-        "version":"0.1",
-        "download":"https://raw.githubusercontent.com/korakot/thainlp/master/ttc_freq.txt",
-        "text":"TTC Freq",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/korakot/thainlp",
-        "authors":"Korakot Chaovavanich"
     },
         "test":{
         "name":"test",
