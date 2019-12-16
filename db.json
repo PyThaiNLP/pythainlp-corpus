@@ -87,6 +87,17 @@
         "homepage":"https://github.com/wannaphongcom/thai-ner/",
         "authors":"Wannaphong Phatthiyaphaibun"
     },
+    "crfcut":{
+        "name":"crfcut",
+        "file_name":"sentenceseg-ted.model",
+        "version":"0.1",
+        "download":"https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
+        "text":"Thai sentence segmentation with CRF trained on TED dataset",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/vistec-AI/ted_crawler",
+        "authors":"Charin Polpanumas"
+    },
         "test":{
         "name":"test",
         "file_name":"test.txt",
