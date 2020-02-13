@@ -108,5 +108,16 @@
         "about":"-",
         "homepage":"https://github.com/PyThaiNLP/pythainlp-corpus",
         "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "g2p":{
+        "name":"g2p",
+        "file_name":"wiktionary-11-2-2020.tsv",
+        "version":"0.1",
+        "download":"https://github.com/PyThaiNLP/lexicon-thai/raw/master/G2P/wiktionary-11-2-2020.tsv",
+        "text":"Grapheme to Phoneme (G2P) ภาษาไทย",
+        "md5":"-",
+        "about":"ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
+        "homepage":"https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
+        "authors":"Wannaphong Phatthiyaphaibun"
     }
 }
