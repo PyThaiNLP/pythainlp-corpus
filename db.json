@@ -80,7 +80,7 @@
         "name":"thainer",
         "file_name":"thainer.model",
         "version":"1.3",
-        "download":"https://github.com/wannaphong/thai-ner/blob/master/model/1.3/data.model?raw=true",
+        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
         "text":"Thai Named Entity Recognition For PyThaiNLP",
         "md5":"-",
         "about":"-",
