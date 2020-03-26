@@ -102,7 +102,7 @@
         "name":"test",
         "file_name":"test.txt",
         "version":"0.1",
-        "download":"https://raw.githubusercontent.com/PyThaiNLP/pythainlp-corpus/master/test.txt",
+        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
         "text":"It's test file.",
         "md5":"ff1f76282b7adcb310ffad3ecd867c3d",
         "about":"-",
