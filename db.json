@@ -119,5 +119,16 @@
         "about":"ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
         "homepage":"https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
         "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "thai-g2p":{
+        "name":"thai-g2p",
+        "file_name":"thaig2p-0.1.tar",
+        "version":"0.1",
+        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
+        "text":"Thai Grapheme to Phoneme (G2P)",
+        "md5":"-",
+        "about":"Thai Grapheme to Phoneme (G2P) in PyTorch",
+        "homepage":"https://github.com/wannaphong/thai-g2p",
+        "authors":"Wannaphong Phatthiyaphaibun"
     }
 }
