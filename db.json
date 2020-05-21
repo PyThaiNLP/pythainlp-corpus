@@ -84,7 +84,18 @@
         "text":"Thai Named Entity Recognition For PyThaiNLP",
         "md5":"-",
         "about":"-",
-        "homepage":"https://github.com/wannaphongcom/thai-ner/",
+        "homepage":"https://github.com/wannaphong/thai-ner/",
+        "authors":"Wannaphong Phatthiyaphaibun"
+    },
+        "thainer-1-4":{
+        "name":"thainer",
+        "file_name":"thai-ner-1-4.crfsuite",
+        "version":"1.4",
+        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
+        "text":"Thai Named Entity Recognition For PyThaiNLP",
+        "md5":"-",
+        "about":"-",
+        "homepage":"https://github.com/wannaphong/thai-ner/",
         "authors":"Wannaphong Phatthiyaphaibun"
     },
     "crfcut":{
