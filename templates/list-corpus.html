@@ -1,0 +1,22 @@
+{% extends "head.html" %}
+{% block title %} List Corpus & Models{% endblock %}
+{% block body %}
+ <h1>List Corpus & Models</h1>
+ <p><img alt="PyPI" src="https://img.shields.io/pypi/v/pythainlp?label=PyThaiNLP&style=flat-square"><br />
+    List PyThaiNLP Corpus and Models.</p>
+ <div class="container">
+    <!-- Example row of columns -->
+    <div class="row">
+ {% for corpus in listcorpus %}
+ <div class="col-md-4">
+    <h2>{{ corpus['name'] }}</h2>
+    {% if corpus['text']|length < 50 %}
+        <p>{{ corpus['text'] }}</p>
+    {% else %}
+        <p>{{ corpus['text'][:50]+' ...' }}</p>
+    {% endif %}
+    <p><a class="btn btn-secondary" href="./{{ corpus['name'] }}.html" role="button">View details &raquo;</a></p>
+ </div>
+ {% endfor %}
+</div></div>
+{% endblock %}
