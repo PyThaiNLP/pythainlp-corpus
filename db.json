@@ -1,145 +1,134 @@
 {
-        "thai2fit_wv":{
-        "name":"thai2fit_wv",
-        "file_name":"thai2vec.bin",
-        "version":"0.1",
-        "download":"https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
-        "text":"thai2vec word embeddings",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2fit",
-        "authors":"Charin Polpanumas"
+    "test": {
+        "name": "test",
+        "file_name": "test.txt",
+        "version": "0.1",
+        "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
+        "text": "It's test file.",
+        "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
+        "about": "-",
+        "homepage": "https://github.com/PyThaiNLP/pythainlp-corpus/",
+        "authors": "Wannaphong Phatthiyaphaibun"
     },
-        "wiki_itos_lstm":{
-        "name":"wiki_itos_lstm",
-        "file_name":"itos_lstm.pkl",
-        "version":"0.32",
-        "download":"https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
-        "text":"ULMFit index to text for LSTM",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2fit",
-        "authors":"Charin Polpanumas"
+    "crfcut": {
+        "name": "crfcut",
+        "file_name": "sentenceseg-ted.model",
+        "version": "0.1",
+        "download": "https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
+        "text": "Thai sentence segmentation with CRF trained on TED dataset",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/vistec-AI/ted_crawler/",
+        "authors": "Charin Polpanumas"
     },
-        "wiki_lm_lstm":{
-        "name":"wiki_lm_lstm",
-        "file_name":"thwiki_model_lstm.pth",
-        "version":"0.32",
-        "download":"https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
-        "text":"Wiki-pretrained ULMFit language model for LSTM",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/cstorm125/thai2fit",
-        "authors":"Charin Polpanumas"
+    "g2p": {
+        "name": "g2p",
+        "file_name": "wiktionary-11-2-2020.tsv",
+        "version": "0.1",
+        "download": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
+        "text": "Grapheme to Phoneme (G2P) ภาษาไทย",
+        "md5": "-",
+        "about": "ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
+        "homepage": "https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
+        "authors": "Wannaphong Phatthiyaphaibun"
     },
-        "thai2rom-dataset":{
-        "name":"thai2rom-dataset",
-        "file_name":"thai2rom.csv",
-        "version":"0.1",
-        "download":"https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
-        "text":"-",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/wannaphongcom/thai-romanization",
-        "authors":"Wannaphong Phatthiyaphaibun"
+    "thai-g2p": {
+        "name": "thai-g2p",
+        "file_name": "thaig2p-0.1.tar",
+        "version": "0.1",
+        "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
+        "text": "Thai Grapheme to Phoneme (G2P)",
+        "md5": "-",
+        "about": "Thai Grapheme to Phoneme (G2P) in PyTorch",
+        "homepage": "https://github.com/wannaphong/thai-g2p/",
+        "authors": "Wannaphong Phatthiyaphaibun"
     },
-        "thai2rom-v2":{
-        "name":"thai2rom-v2",
-        "file_name":"thai2rom-v2.hdf5",
-        "version":"2.0",
-        "download":"https://github.com/wannaphong/thai-romanization/raw/master/model/thai2rom-v2.hdf5",
-        "text":"-",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/wannaphongcom/thai-romanization",
-        "authors":"Wannaphong Phatthiyaphaibun"
+    "thai2fit_wv": {
+        "name": "thai2fit_wv",
+        "file_name": "thai2vec.bin",
+        "version": "0.1",
+        "download": "https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
+        "text": "thai2vec word embeddings",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/cstorm125/thai2fit/",
+        "authors": "Charin Polpanumas"
     },
-        "thai2rom-pytorch":{
-        "name":"thai2rom-pytorch",
-        "file_name":"thai2rom-pytorch.tar",
-        "version":"0.1",
-        "download":"https://github.com/c4n/thai-romanization/raw/master/notebook/thai2rom-pytorch.tar",
-        "text":"-",
-        "md5":"-",
-        "about":"LSTM encoder-decoder model",
-        "homepage":"https://github.com/c4n/thai-romanization/",
-        "authors":"Can Udomcharoenchaikit"
+    "thai2rom-dataset": {
+        "name": "thai2rom-dataset",
+        "file_name": "thai2rom.csv",
+        "version": "0.1",
+        "download": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
+        "text": "-",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/wannaphongcom/thai-romanization/",
+        "authors": "Wannaphong Phatthiyaphaibun"
     },
-        "thai2rom-pytorch-attn":{
-        "name":"thai2rom-pytorch-attn",
-        "file_name":"thai2rom-pytorch-attn-v0.1.tar",
-        "version":"0.1",
-        "download":"https://github.com/artificiala/thai-romanization/raw/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
-        "text":"-",
-        "md5":"-",
-        "about":"LSTM encoder-decoder model with attention mechanism",
-        "homepage":"https://github.com/artificiala/thai-romanization",
-        "authors":"Chakri Lowphansirikul"
+    "thai2rom-pytorch": {
+        "name": "thai2rom-pytorch",
+        "file_name": "thai2rom-pytorch.tar",
+        "version": "0.1",
+        "download": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
+        "text": "-",
+        "md5": "-",
+        "about": "LSTM encoder-decoder model",
+        "homepage": "https://github.com/c4n/thai-romanization/",
+        "authors": "Can Udomcharoenchaikit"
     },
-        "thainer-1-3":{
-        "name":"thainer",
-        "file_name":"thainer.model",
-        "version":"1.3",
-        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
-        "text":"Thai Named Entity Recognition For PyThaiNLP",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/wannaphong/thai-ner/",
-        "authors":"Wannaphong Phatthiyaphaibun"
+    "thai2rom-pytorch-attn": {
+        "name": "thai2rom-pytorch-attn",
+        "file_name": "thai2rom-pytorch-attn-v0.1.tar",
+        "version": "0.1",
+        "download": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
+        "text": "-",
+        "md5": "-",
+        "about": "LSTM encoder-decoder model with attention mechanism",
+        "homepage": "https://github.com/artificiala/thai-romanization/",
+        "authors": "Chakri Lowphansirikul"
     },
-        "thainer-1-4":{
-        "name":"thainer",
-        "file_name":"thai-ner-1-4.crfsuite",
-        "version":"1.4",
-        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
-        "text":"Thai Named Entity Recognition For PyThaiNLP",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/wannaphong/thai-ner/",
-        "authors":"Wannaphong Phatthiyaphaibun"
+    "thainer-1-3": {
+        "name": "thainer",
+        "file_name": "thainer.model",
+        "version": "1.3",
+        "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
+        "text": "Thai Named Entity Recognition For PyThaiNLP",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/wannaphong/thai-ner/",
+        "authors": "Wannaphong Phatthiyaphaibun"
     },
-    "crfcut":{
-        "name":"crfcut",
-        "file_name":"sentenceseg-ted.model",
-        "version":"0.1",
-        "download":"https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
-        "text":"Thai sentence segmentation with CRF trained on TED dataset",
-        "md5":"-",
-        "about":"-",
-        "homepage":"https://github.com/vistec-AI/ted_crawler",
-        "authors":"Charin Polpanumas"
+    "thainer-1-4": {
+        "name": "thainer",
+        "file_name": "thai-ner-1-4.crfsuite",
+        "version": "1.4",
+        "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
+        "text": "Thai Named Entity Recognition For PyThaiNLP",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/wannaphong/thai-ner/",
+        "authors": "Wannaphong Phatthiyaphaibun"
     },
-        "test":{
-        "name":"test",
-        "file_name":"test.txt",
-        "version":"0.1",
-        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
-        "text":"It's test file.",
-        "md5":"ff1f76282b7adcb310ffad3ecd867c3d",
-        "about":"-",
-        "homepage":"https://github.com/PyThaiNLP/pythainlp-corpus",
-        "authors":"Wannaphong Phatthiyaphaibun"
+    "wiki_itos_lstm": {
+        "name": "wiki_itos_lstm",
+        "file_name": "itos_lstm.pkl",
+        "version": "0.32",
+        "download": "https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
+        "text": "ULMFit index to text for LSTM",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/cstorm125/thai2fit/",
+        "authors": "Charin Polpanumas"
     },
-        "g2p":{
-        "name":"g2p",
-        "file_name":"wiktionary-11-2-2020.tsv",
-        "version":"0.1",
-        "download":"https://github.com/PyThaiNLP/lexicon-thai/raw/master/G2P/wiktionary-11-2-2020.tsv",
-        "text":"Grapheme to Phoneme (G2P) ภาษาไทย",
-        "md5":"-",
-        "about":"ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
-        "homepage":"https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
-        "authors":"Wannaphong Phatthiyaphaibun"
-    },
-        "thai-g2p":{
-        "name":"thai-g2p",
-        "file_name":"thaig2p-0.1.tar",
-        "version":"0.1",
-        "download":"https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
-        "text":"Thai Grapheme to Phoneme (G2P)",
-        "md5":"-",
-        "about":"Thai Grapheme to Phoneme (G2P) in PyTorch",
-        "homepage":"https://github.com/wannaphong/thai-g2p",
-        "authors":"Wannaphong Phatthiyaphaibun"
+    "wiki_lm_lstm": {
+        "name": "wiki_lm_lstm",
+        "file_name": "thwiki_model_lstm.pth",
+        "version": "0.32",
+        "download": "https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
+        "text": "Wiki-pretrained ULMFit language model for LSTM",
+        "md5": "-",
+        "about": "-",
+        "homepage": "https://github.com/cstorm125/thai2fit/",
+        "authors": "Charin Polpanumas"
     }
 }
