@@ -1,7 +1,6 @@
 {
     "test": {
         "name": "test",
-        "file_name": "test.txt",
         "latest_version": "0.1",
         "description": "It's test file.",
         "long_description": "-",
@@ -13,6 +12,7 @@
         "author_email": "wannaphong@kkumail.com",
         "release":{
             "0.1":{
+                "filename": "test.txt",
                 "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d"
             }
@@ -20,7 +20,6 @@
     },
     "crfcut": {
         "name": "crfcut",
-        "file_name": "sentenceseg-ted.model",
         "latest_version": "0.1",
         "description": "Thai sentence segmentation with CRF trained on TED dataset",
         "long_description": "-",
@@ -32,6 +31,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "filename": "sentenceseg-ted.model",
                 "download": "https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
                 "md5": "-"
             }
@@ -39,7 +39,6 @@
     },
     "g2p": {
         "name": "g2p",
-        "file_name": "wiktionary-11-2-2020.tsv",
         "latest_version": "0.1",
         "description": "Grapheme to Phoneme (G2P) ภาษาไทย",
         "long_description": "ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
@@ -51,6 +50,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "filename": "wiktionary-11-2-2020.tsv",
                 "download": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
                 "md5": "-"
             }
@@ -58,7 +58,6 @@
     },
     "thai-g2p": {
         "name": "thai-g2p",
-        "file_name": "thaig2p-0.1.tar",
         "latest_version": "0.1",
         "description": "Thai Grapheme to Phoneme (G2P)",
         "long_description": "Thai Grapheme to Phoneme (G2P) in PyTorch",
@@ -70,6 +69,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "file_name": "thaig2p-0.1.tar",
                 "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
                 "md5": "-"
             }
@@ -77,9 +77,7 @@
     },
     "thai2fit_wv": {
         "name": "thai2fit_wv",
-        "file_name": "thai2vec.bin",
         "latest_version": "0.1",
-        "download": "https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
         "description": "thai2vec word embeddings",
         "long_description": "-",
         "project_url": "https://github.com/cstorm125/thai2fit/",
@@ -90,6 +88,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "file_name": "thai2vec.bin",
                 "download": "https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
                 "md5": "-"
             }
@@ -97,9 +96,7 @@
     },
     "thai2rom-dataset": {
         "name": "thai2rom-dataset",
-        "file_name": "thai2rom.csv",
         "latest_version": "0.1",
-        "download": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
         "description": "-",
         "long_description": "-",
         "project_url": "https://github.com/wannaphongcom/thai-romanization/",
@@ -110,6 +107,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "file_name": "thai2rom.csv",
                 "download": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
                 "md5": "-"
             }
@@ -117,9 +115,7 @@
     },
     "thai2rom-pytorch": {
         "name": "thai2rom-pytorch",
-        "file_name": "thai2rom-pytorch.tar",
         "latest_version": "0.1",
-        "download": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
         "description": "-",
         "long_description": "LSTM encoder-decoder model",
         "project_url": "https://github.com/c4n/thai-romanization/",
@@ -130,6 +126,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "file_name": "thai2rom-pytorch.tar",
                 "download": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
                 "md5": "-"
             }
@@ -137,9 +134,7 @@
     },
     "thai2rom-pytorch-attn": {
         "name": "thai2rom-pytorch-attn",
-        "file_name": "thai2rom-pytorch-attn-v0.1.tar",
         "latest_version": "0.1",
-        "download": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
         "description": "-",
         "long_description": "LSTM encoder-decoder model with attention mechanism",
         "project_url": "https://github.com/artificiala/thai-romanization/",
@@ -150,6 +145,7 @@
         "license":"",
         "release":{
             "0.1":{
+                "file_name": "thai2rom-pytorch-attn-v0.1.tar",
                 "download": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
                 "md5": "-"
             }
@@ -157,7 +153,6 @@
     },
     "thainer": {
         "name": "thainer",
-        "file_name": "thai-ner-1-4.crfsuite",
         "latest_version": "1.4",
         "description": "Thai Named Entity Recognition For PyThaiNLP",
         "long_description": "-",
@@ -169,10 +164,12 @@
         "license":"",
         "release":{
             "1.3":{
+                "file_name": "thai-ner-1-3.crfsuite",
                 "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
                 "md5": "-"
             },
             "1.4":{
+                "file_name": "thai-ner-1-4.crfsuite",
                 "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
                 "md5": "-"
             }
@@ -180,7 +177,6 @@
     },
     "wiki_itos_lstm": {
         "name": "wiki_itos_lstm",
-        "file_name": "itos_lstm.pkl",
         "latest_version": "0.32",
         "description": "ULMFit index to text for LSTM",
         "long_description": "-",
@@ -192,6 +188,7 @@
         "license":"",
         "release":{
             "0.32":{
+                "file_name": "itos_lstm.pkl",
                 "download": "https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
                 "md5": "-"
             }
@@ -199,7 +196,6 @@
     },
     "wiki_lm_lstm": {
         "name": "wiki_lm_lstm",
-        "file_name": "thwiki_model_lstm.pth",
         "latest_version": "0.32",
         "description": "Wiki-pretrained ULMFit language model for LSTM",
         "long_description": "-",
@@ -211,6 +207,7 @@
         "license":"",
         "release":{
             "0.32":{
+                "file_name": "thwiki_model_lstm.pth",
                 "download": "https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
                 "md5": "-"
             }
