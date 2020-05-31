@@ -12,7 +12,7 @@
         "author_email": "wannaphong@kkumail.com",
         "release":{
             "0.1":{
-                "filename": "test.txt",
+                "file_name": "test.txt",
                 "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d"
             }
@@ -31,7 +31,7 @@
         "license":"",
         "release":{
             "0.1":{
-                "filename": "sentenceseg-ted.model",
+                "file_name": "sentenceseg-ted.model",
                 "download": "https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
                 "md5": "-"
             }
@@ -50,7 +50,7 @@
         "license":"Creative Commons Attribution-ShareAlike 4.0 International License",
         "release":{
             "0.1":{
-                "filename": "wiktionary-11-2-2020.tsv",
+                "file_name": "wiktionary-11-2-2020.tsv",
                 "download": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
                 "md5": "-"
             }
