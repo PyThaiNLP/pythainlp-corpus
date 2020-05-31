@@ -2,18 +2,22 @@
     "test": {
         "name": "test",
         "latest_version": "0.1",
-        "description": "It's test file.",
-        "long_description": "-",
-        "project_url": "https://github.com/PyThaiNLP/pythainlp-corpus/",
-        "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+        "description": "It's a test file.",
+        "long_description": "A handy dummy corpus used for testing (like in unit testing) purpose.",
+        "url": "https://github.com/PyThaiNLP/pythainlp-corpus/",
+        "project_urls": {
+            "project_page": "https://www.thainlp.org/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
+        },
+        "license": "cc-by-sa-4.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "release":{
-            "0.1":{
-                "file_name": "test.txt",
-                "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
+        "versions": {
+            "0.1": {
+                "filename": "test.txt",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d"
             }
         }
@@ -23,16 +27,16 @@
         "latest_version": "0.1",
         "description": "Thai sentence segmentation with CRF trained on TED dataset",
         "long_description": "-",
-        "project_url": "https://github.com/vistec-AI/ted_crawler/",
+        "url": "https://github.com/vistec-AI/ted_crawler/",
         "authors": [
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license":"",
-        "release":{
-            "0.1":{
-                "file_name": "sentenceseg-ted.model",
-                "download": "https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
+        "license": "cc-by-sa-4.0",
+        "versions": {
+            "0.1": {
+                "filename": "sentenceseg-ted.model",
+                "download_url": "https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
                 "md5": "-"
             }
         }
@@ -42,16 +46,16 @@
         "latest_version": "0.1",
         "description": "Grapheme to Phoneme (G2P) ภาษาไทย",
         "long_description": "ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
-        "project_url": "https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
+        "url": "https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"Creative Commons Attribution-ShareAlike 4.0 International License",
-        "release":{
-            "0.1":{
-                "file_name": "wiktionary-11-2-2020.tsv",
-                "download": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
+        "license": "cc-by-sa-4.0",
+        "versions": {
+            "0.1": {
+                "filename": "wiktionary-11-2-2020.tsv",
+                "download_url": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
                 "md5": "-"
             }
         }
@@ -61,16 +65,16 @@
         "latest_version": "0.1",
         "description": "Thai Grapheme to Phoneme (G2P)",
         "long_description": "Thai Grapheme to Phoneme (G2P) in PyTorch",
-        "project_url": "https://github.com/wannaphong/thai-g2p/",
+        "url": "https://github.com/wannaphong/thai-g2p/",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"Apache License 2.0",
-        "release":{
-            "0.1":{
-                "file_name": "thaig2p-0.1.tar",
-                "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
+        "license": "apache-2.0",
+        "versions": {
+            "0.1": {
+                "filename": "thaig2p-0.1.tar",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
                 "md5": "-"
             }
         }
@@ -80,16 +84,16 @@
         "latest_version": "0.1",
         "description": "thai2vec word embeddings",
         "long_description": "-",
-        "project_url": "https://github.com/cstorm125/thai2fit/",
+        "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license":"",
-        "release":{
-            "0.1":{
-                "file_name": "thai2vec.bin",
-                "download": "https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
+        "license": "",
+        "versions": {
+            "0.1": {
+                "filename": "thai2vec.bin",
+                "download_url": "https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
                 "md5": "-"
             }
         }
@@ -99,16 +103,16 @@
         "latest_version": "0.1",
         "description": "-",
         "long_description": "-",
-        "project_url": "https://github.com/wannaphongcom/thai-romanization/",
+        "url": "https://github.com/wannaphongcom/thai-romanization/",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"Apache License 2.0",
-        "release":{
-            "0.1":{
-                "file_name": "thai2rom.csv",
-                "download": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
+        "license": "apache-2.0",
+        "versions": {
+            "0.1": {
+                "filename": "thai2rom.csv",
+                "download_url": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
                 "md5": "-"
             }
         }
@@ -118,16 +122,16 @@
         "latest_version": "0.1",
         "description": "-",
         "long_description": "LSTM encoder-decoder model",
-        "project_url": "https://github.com/c4n/thai-romanization/",
+        "url": "https://github.com/c4n/thai-romanization/",
         "authors": [
             "Can Udomcharoenchaikit"
         ],
         "author_email": "",
-        "license":"Apache License 2.0",
-        "release":{
-            "0.1":{
-                "file_name": "thai2rom-pytorch.tar",
-                "download": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
+        "license": "apache-2.0",
+        "versions": {
+            "0.1": {
+                "filename": "thai2rom-pytorch.tar",
+                "download_url": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
                 "md5": "-"
             }
         }
@@ -137,16 +141,16 @@
         "latest_version": "0.1",
         "description": "-",
         "long_description": "LSTM encoder-decoder model with attention mechanism",
-        "project_url": "https://github.com/artificiala/thai-romanization/",
+        "url": "https://github.com/artificiala/thai-romanization/",
         "authors": [
             "Chakri Lowphansirikul"
         ],
         "author_email": "",
-        "license":"Apache License 2.0",
-        "release":{
-            "0.1":{
-                "file_name": "thai2rom-pytorch-attn-v0.1.tar",
-                "download": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
+        "license": "apache-2.0",
+        "versions": {
+            "0.1": {
+                "filename": "thai2rom-pytorch-attn-v0.1.tar",
+                "download_url": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
                 "md5": "-"
             }
         }
@@ -156,21 +160,21 @@
         "latest_version": "1.4",
         "description": "Thai Named Entity Recognition For PyThaiNLP",
         "long_description": "-",
-        "project_url": "https://github.com/wannaphong/thai-ner/",
+        "url": "https://github.com/wannaphong/thai-ner/",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"Apache License 2.0",
-        "release":{
-            "1.3":{
-                "file_name": "thai-ner-1-3.crfsuite",
-                "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
+        "license": "apache-2.0",
+        "versions": {
+            "1.3": {
+                "filename": "thai-ner-1-3.crfsuite",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
                 "md5": "-"
             },
-            "1.4":{
-                "file_name": "thai-ner-1-4.crfsuite",
-                "download": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
+            "1.4": {
+                "filename": "thai-ner-1-4.crfsuite",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
                 "md5": "-"
             }
         }
@@ -180,16 +184,16 @@
         "latest_version": "0.32",
         "description": "ULMFit index to text for LSTM",
         "long_description": "-",
-        "project_url": "https://github.com/cstorm125/thai2fit/",
+        "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license":"",
-        "release":{
-            "0.32":{
-                "file_name": "itos_lstm.pkl",
-                "download": "https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
+        "license": "cc-by-sa-4.0",
+        "versions": {
+            "0.32": {
+                "filename": "itos_lstm.pkl",
+                "download_url": "https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
                 "md5": "-"
             }
         }
@@ -199,16 +203,16 @@
         "latest_version": "0.32",
         "description": "Wiki-pretrained ULMFit language model for LSTM",
         "long_description": "-",
-        "project_url": "https://github.com/cstorm125/thai2fit/",
+        "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license":"",
-        "release":{
-            "0.32":{
-                "file_name": "thwiki_model_lstm.pth",
-                "download": "https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
+        "license": "cc-by-sa-4.0",
+        "versions": {
+            "0.32": {
+                "filename": "thwiki_model_lstm.pth",
+                "download_url": "https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
                 "md5": "-"
             }
         }
