@@ -28,7 +28,7 @@ It's get path file of corpus.<br />
     if <code>get_file('{{ corpus['name'] }}')</code> is <code>None</code> than you not download <code>{{ corpus['name'] }}</code>.
  <hr>
  <h2>File Details</h2>
- <p>File Name : {{ corpus[corpus['release']['latest_version']]['file_name'] }}</p>
+ <p>File Name : {{ corpus['release']['latest_version']['file_name'] }}</p>
  <p>md5 : {{ corpus['release']['latest_version']['md5'] }}</p>
- <p>Link Download : <a rel="nofollow" target="_blank" href="{{ corpus[corpus['release']['latest_version']]['download'] }}">{{ corpus['download'] }}</a></p>
+ <p>Link Download : <a rel="nofollow" target="_blank" href="{{ corpus['release']['latest_version']['download'] }}">{{ corpus['download'] }}</a></p>
 {% endblock %}
