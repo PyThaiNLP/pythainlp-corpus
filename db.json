@@ -47,7 +47,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"",
+        "license":"Creative Commons Attribution-ShareAlike 4.0 International License",
         "release":{
             "0.1":{
                 "filename": "wiktionary-11-2-2020.tsv",
@@ -66,7 +66,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"",
+        "license":"Apache License 2.0",
         "release":{
             "0.1":{
                 "file_name": "thaig2p-0.1.tar",
@@ -104,7 +104,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"",
+        "license":"Apache License 2.0",
         "release":{
             "0.1":{
                 "file_name": "thai2rom.csv",
@@ -123,7 +123,7 @@
             "Can Udomcharoenchaikit"
         ],
         "author_email": "",
-        "license":"",
+        "license":"Apache License 2.0",
         "release":{
             "0.1":{
                 "file_name": "thai2rom-pytorch.tar",
@@ -142,7 +142,7 @@
             "Chakri Lowphansirikul"
         ],
         "author_email": "",
-        "license":"",
+        "license":"Apache License 2.0",
         "release":{
             "0.1":{
                 "file_name": "thai2rom-pytorch-attn-v0.1.tar",
@@ -161,7 +161,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@kkumail.com",
-        "license":"",
+        "license":"Apache License 2.0",
         "release":{
             "1.3":{
                 "file_name": "thai-ner-1-3.crfsuite",
