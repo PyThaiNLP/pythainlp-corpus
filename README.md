@@ -1,4 +1,5 @@
 # PyThaiNLP Corpus
+[![Build Status](https://travis-ci.org/PyThaiNLP/pythainlp-corpus.svg?branch=2.1)](https://travis-ci.org/PyThaiNLP/pythainlp-corpus)
 
 Corpora and language models for [PyThaiNLP](https://github.com//PyThaiNLP/pythainlp).
 
