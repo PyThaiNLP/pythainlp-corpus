@@ -193,7 +193,7 @@
         "versions": {
             "0.32": {
                 "filename": "itos_lstm.pkl",
-                "download_url": "https://www.dropbox.com/s/87p5ugshid4mbcm/thwiki_itos.pkl?dl=1",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_itos_lstm-v0.32/thwiki_itos.pkl",
                 "md5": "-"
             }
         }
