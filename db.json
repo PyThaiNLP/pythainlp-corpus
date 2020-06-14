@@ -93,7 +93,7 @@
         "versions": {
             "0.1": {
                 "filename": "thai2vec.bin",
-                "download_url": "https://www.dropbox.com/s/yuq0gp1eges8j5n/thai2vec.bin?dl=1",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thai2fit_wv-v0.1/thai2vec.bin",
                 "md5": "-"
             }
         }
