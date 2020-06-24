@@ -216,5 +216,74 @@
                 "md5": "-"
             }
         }
+    },
+    "SCB_1M_th-en_newmm": {
+        "name": "SCB_1M_th-en_newmm",
+        "latest_version": "1.0",
+        "description": "SCB_1M+TBASE_th-en_newmm-moses.",
+        "long_description": "-",
+        "url": "https://airesearch.in.th/releases/machine-translation-models/",
+        "project_urls": {
+            "project_page": "https://airesearch.in.th/",
+            "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
+        },
+        "license": "-",
+        "authors": [
+            "VISTEC-depa Thailand Artificial Intelligence Research Institute"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "SCB_1M+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
+                "md5": "-"
+            }
+        }
+    },
+    "SCB_1M_th-en_spm": {
+        "name": "SCB_1M_th-en_spm",
+        "latest_version": "1.0",
+        "description": "SCB_1M+TBASE_th-en_spm-spm.",
+        "long_description": "-",
+        "url": "https://airesearch.in.th/releases/machine-translation-models/",
+        "project_urls": {
+            "project_page": "https://airesearch.in.th/",
+            "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
+        },
+        "license": "-",
+        "authors": [
+            "VISTEC-depa Thailand Artificial Intelligence Research Institute"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "SCB_1M+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
+                "md5": "-"
+            }
+        }
+    },
+    "SCB_1M_en-th_moses": {
+        "name": "SCB_1M_en-th_moses",
+        "latest_version": "1.0",
+        "description": "SCB_1M+TBASE_en-th_moses-spm.",
+        "long_description": "-",
+        "url": "https://airesearch.in.th/releases/machine-translation-models/",
+        "project_urls": {
+            "project_page": "https://airesearch.in.th/",
+            "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
+        },
+        "license": "-",
+        "authors": [
+            "VISTEC-depa Thailand Artificial Intelligence Research Institute"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "SCB_1M+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
+                "md5": "-"
+            }
+        }
     }
 }
