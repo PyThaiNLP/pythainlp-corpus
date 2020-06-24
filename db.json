@@ -218,7 +218,7 @@
         }
     },
     "scb_1m_th-en_newmm": {
-        "name": "SCB_1M_th-en_newmm",
+        "name": "scb_1m_th-en_newmm",
         "latest_version": "1.0",
         "description": "SCB_1M+TBASE_th-en_newmm-moses.",
         "long_description": "-",
@@ -241,7 +241,7 @@
         }
     },
     "scb_1m_th-en_spm": {
-        "name": "SCB_1M_th-en_spm",
+        "name": "scb_1m_th-en_spm",
         "latest_version": "1.0",
         "description": "SCB_1M+TBASE_th-en_spm-spm.",
         "long_description": "-",
@@ -264,7 +264,7 @@
         }
     },
     "scb_1m_en-th_moses": {
-        "name": "SCB_1M_en-th_moses",
+        "name": "scb_1m_en-th_moses",
         "latest_version": "1.0",
         "description": "SCB_1M+TBASE_en-th_moses-spm.",
         "long_description": "-",
