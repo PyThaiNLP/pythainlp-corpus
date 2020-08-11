@@ -285,5 +285,51 @@
                 "md5": "-"
             }
         }
+    },
+    "lst20_pt_tagger": {
+        "name": "lst20_pt_tagger",
+        "latest_version": "0.1",
+        "description": "Perceptron Part-Of-Speech tagger from LST20 dataset",
+        "long_description": "-",
+        "url": "https://github.com/PyThaiNLP/",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.1"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@kkumail.com",
+        "versions": {
+            "0.1": {
+                "filename": "lst20_pt_tagger.pkl",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.1/lst20_pt_tagger.pkl",
+                "md5": "-"
+            }
+        }
+    },
+    "lst20_unigram_tagger": {
+        "name": "lst20_unigram_tagger",
+        "latest_version": "0.1",
+        "description": "Unigram Part-Of-Speech tagger from LST20 dataset",
+        "long_description": "-",
+        "url": "https://github.com/PyThaiNLP/",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.1"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@kkumail.com",
+        "versions": {
+            "0.1": {
+                "filename": "lst20_unigram_tagger.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.1/lst20_unigram_tagger.json",
+                "md5": "-"
+            }
+        }
     }
 }
