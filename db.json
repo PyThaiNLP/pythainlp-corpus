@@ -288,7 +288,7 @@
     },
     "lst20_pt_tagger": {
         "name": "lst20_pt_tagger",
-        "latest_version": "0.1",
+        "latest_version": "0.2",
         "description": "Perceptron Part-Of-Speech tagger from LST20 dataset",
         "long_description": "-",
         "url": "https://github.com/PyThaiNLP/",
@@ -306,12 +306,17 @@
                 "filename": "lst20_pt_tagger.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.1/lst20_pt_tagger.pkl",
                 "md5": "-"
+            },
+            "0.2": {
+                "filename": "lst20_pt_tagger.pkl",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2/lst20_pt_tagger-v0.2.pkl",
+                "md5": "-"
             }
         }
     },
     "lst20_unigram_tagger": {
         "name": "lst20_unigram_tagger",
-        "latest_version": "0.1",
+        "latest_version": "0.2",
         "description": "Unigram Part-Of-Speech tagger from LST20 dataset",
         "long_description": "-",
         "url": "https://github.com/PyThaiNLP/",
@@ -328,6 +333,11 @@
             "0.1": {
                 "filename": "lst20_unigram_tagger.json",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.1/lst20_unigram_tagger.json",
+                "md5": "-"
+            },
+            "0.2": {
+                "filename": "lst20_unigram_tagger.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2/lst20_unigram_tagger-v0.2.json",
                 "md5": "-"
             }
         }
