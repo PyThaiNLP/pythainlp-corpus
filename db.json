@@ -212,7 +212,7 @@
         "versions": {
             "0.32": {
                 "filename": "thwiki_model_lstm.pth",
-                "download_url": "https://www.dropbox.com/s/7za2o1nmq8s3fex/thwiki_lm.pth?dl=1",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_lm_lstm-v0.32/thwiki_model_lstm.pth",
                 "md5": "-"
             }
         }
