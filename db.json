@@ -22,25 +22,6 @@
             }
         }
     },
-    "crfcut": {
-        "name": "crfcut",
-        "latest_version": "0.1",
-        "description": "Thai sentence segmentation with CRF trained on TED dataset",
-        "long_description": "-",
-        "url": "https://github.com/vistec-AI/ted_crawler/",
-        "authors": [
-            "Charin Polpanumas"
-        ],
-        "author_email": "",
-        "license": "cc-by-4.0",
-        "versions": {
-            "0.1": {
-                "filename": "sentenceseg-ted.model",
-                "download_url": "https://github.com/vistec-AI/ted_crawler/blob/master/models/sentenceseg-ted.model?raw=true",
-                "md5": "-"
-            }
-        }
-    },
     "g2p": {
         "name": "g2p",
         "latest_version": "0.1",
