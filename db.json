@@ -25,8 +25,8 @@
     "g2p": {
         "name": "g2p",
         "latest_version": "0.1",
-        "description": "Grapheme to Phoneme (G2P) ภาษาไทย",
-        "long_description": "ข้อมูลดึงมาจากวิกิพจนานุกรมภาษาไทย (Thai Wiktionary)",
+        "description": "Thai grapheme to phoneme",
+        "long_description": "Data from Thai Wiktionary)",
         "url": "https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
@@ -44,8 +44,8 @@
     "thai-g2p": {
         "name": "thai-g2p",
         "latest_version": "0.1",
-        "description": "Thai Grapheme to Phoneme (G2P)",
-        "long_description": "Thai Grapheme to Phoneme (G2P) in PyTorch",
+        "description": "Thai grapheme to phoneme (PyTorch)",
+        "long_description": "Thai grapheme to phoneme in PyTorch",
         "url": "https://github.com/wannaphong/thai-g2p/",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
@@ -101,8 +101,8 @@
     "thai2rom-pytorch": {
         "name": "thai2rom-pytorch",
         "latest_version": "0.1",
-        "description": "-",
-        "long_description": "LSTM encoder-decoder model",
+        "description": "Thai romanization model (LSTM)",
+        "long_description": "Thai romanization using LSTM encoder-decoder model",
         "url": "https://github.com/c4n/thai-romanization/",
         "authors": [
             "Can Udomcharoenchaikit"
@@ -120,8 +120,8 @@
     "thai2rom-pytorch-attn": {
         "name": "thai2rom-pytorch-attn",
         "latest_version": "0.1",
-        "description": "-",
-        "long_description": "LSTM encoder-decoder model with attention mechanism",
+        "description": "Thai romanization model (LSTM-Attention)",
+        "long_description": "Thai romanization using LSTM encoder-decoder model with attention mechanism",
         "url": "https://github.com/artificiala/thai-romanization/",
         "authors": [
             "Chakri Lowphansirikul"
@@ -139,8 +139,8 @@
     "thainer": {
         "name": "thainer",
         "latest_version": "1.4",
-        "description": "Thai Named Entity Recognition For PyThaiNLP",
-        "long_description": "-",
+        "description": "Thai Named Entity Recognition",
+        "long_description": "Thai Named Entity Recognition",
         "url": "https://github.com/wannaphong/thai-ner/",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
@@ -164,7 +164,7 @@
         "name": "wiki_itos_lstm",
         "latest_version": "0.32",
         "description": "ULMFit index to text for LSTM",
-        "long_description": "-",
+        "long_description": "ULMFit index to text for LSTM",
         "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
@@ -182,8 +182,8 @@
     "wiki_lm_lstm": {
         "name": "wiki_lm_lstm",
         "latest_version": "0.32",
-        "description": "Wiki-pretrained ULMFit language model for LSTM",
-        "long_description": "-",
+        "description": "Wikipedia-pretrained ULMFit language model for LSTM",
+        "long_description": "Wikipedia-pretrained ULMFit language model for LSTM",
         "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
@@ -269,13 +269,13 @@
     },
     "pos_lst20_perceptron": {
         "name": "pos_lst20_perceptron",
-        "latest_version": "0.2.1",
-        "description": "Perceptron part-of-speech tagger from LST20 dataset",
-        "long_description": "-",
+        "latest_version": "0.2.2",
+        "description": "Perceptron POS tagger (LST20)",
+        "long_description": "Perceptron part-of-speech tagger from LST20 dataset",
         "url": "https://github.com/PyThaiNLP/",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/",
-            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.2.1"
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.2.2"
         },
         "license": "cc0-1.0",
         "authors": [
@@ -285,20 +285,20 @@
         "versions": {
             "0.2.1": {
                 "filename": "pos_lst20_perceptron.pkl",
-                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.1/pos_lst20_perceptron-v0.2.1.pkl",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_perceptron-v0.2.2.pkl",
                 "md5": "-"
             }
         }
     },
     "pos_lst20_unigram": {
         "name": "pos_lst20_unigram",
-        "latest_version": "0.2.1",
-        "description": "Unigram part-of-speech tagger from LST20 dataset",
-        "long_description": "-",
+        "latest_version": "0.2.2",
+        "description": "Unigram POS tagger (LST20)",
+        "long_description": "Unigram part-of-speech tagger from LST20 dataset",
         "url": "https://github.com/PyThaiNLP/",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/",
-            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.2.1"
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.2.2"
         },
         "license": "cc0-1.0",
         "authors": [
@@ -308,7 +308,7 @@
         "versions": {
             "0.2.1": {
                 "filename": "pos_lst20_unigram.json",
-                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.1/pos_lst20_unigram-v0.2.1.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_unigram-v0.2.2.json",
                 "md5": "-"
             }
         }
