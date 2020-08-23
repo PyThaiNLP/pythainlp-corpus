@@ -308,7 +308,7 @@
         "versions": {
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
-                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
                 "md5": "-"
             }
         }
@@ -331,7 +331,7 @@
         "versions": {
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
-                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
                 "md5": "-"
             }
         }
