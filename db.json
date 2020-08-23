@@ -215,8 +215,8 @@
         "author_email": "-",
         "versions": {
             "1.0": {
-                "filename": "SCB_1M+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
-                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
+                "filename": "SCB_1M-MT_OPUS+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
                 "md5": "-"
             }
         }
@@ -238,8 +238,8 @@
         "author_email": "-",
         "versions": {
             "1.0": {
-                "filename": "SCB_1M+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
-                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
+                "filename": "SCB_1M-MT_OPUS+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
                 "md5": "-"
             }
         }
@@ -261,8 +261,8 @@
         "author_email": "-",
         "versions": {
             "1.0": {
-                "filename": "SCB_1M+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
-                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
+                "filename": "SCB_1M-MT_OPUS+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
                 "md5": "-"
             }
         }
@@ -284,8 +284,8 @@
         "author_email": "-",
         "versions": {
             "1.0": {
-                "filename": "SCB_1M+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
-                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
+                "filename": "SCB_1M-MT_OPUS+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
+                "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
                 "md5": "-"
             }
         }
