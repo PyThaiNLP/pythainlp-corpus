@@ -394,7 +394,7 @@
     },
     "lst20-cls": {
         "name": "lst20-cls",
-        "latest_version": "0.1",
+        "latest_version": "0.2",
         "description": "lst20-cls (LST20)",
         "long_description": "CLS from LST20 dataset",
         "url": "https://github.com/PyThaiNLP/",
@@ -411,6 +411,11 @@
             "0.1": {
                 "filename": "cls.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-cls-v0.1/cls.crfsuite",
+                "md5": "-"
+            },
+            "0.2": {
+                "filename": "cls-v0.2.crfsuite",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-cls-v0.2/cls-v0.2.crfsuite",
                 "md5": "-"
             }
         }
