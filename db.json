@@ -373,13 +373,13 @@
                 "filename": "pos_lst20_perceptron.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_perceptron-v0.2.2.pkl",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2<2.2.6"
             },
             "0.2.3": {
                 "filename": "pos_lst20_perceptron.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.3/pos_lst20_perceptron-v0.2.3.pkl",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2.6"
             }
         }
     },
