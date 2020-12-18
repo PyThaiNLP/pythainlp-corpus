@@ -1,4 +1,4 @@
-name: Upload package to PyPI
+name: Build pages
 
 on: [push]
 
