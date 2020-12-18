@@ -355,7 +355,7 @@
     },
     "pos_lst20_perceptron": {
         "name": "pos_lst20_perceptron",
-        "latest_version": "0.2.2",
+        "latest_version": "0.2.3",
         "description": "Perceptron POS tagger (LST20)",
         "long_description": "Perceptron part-of-speech tagger from LST20 dataset",
         "url": "https://github.com/PyThaiNLP/",
