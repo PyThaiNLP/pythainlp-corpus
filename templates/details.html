@@ -6,7 +6,7 @@
 <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded box-shadow">
     <div class="lh-100">
       <h1 class="mb-0 text-white lh-100">{{ corpus['name'] }}</h1>
-      <small>version {{ corpus['latest_version'] }}</small>
+      <small>latest version: {{ corpus['latest_version'] }}</small>
     </div>
   </div>
 </div>
@@ -14,7 +14,7 @@
  <br>
 <p>Description : {{ corpus['description'] }}</p>
 <p>Long Description : {{ corpus['long_description'] }}</p>
- <p><b>HomePage</b> : <a rel="nofollow" target="_blank" href="{{ corpus['project_url'] }}">{{ corpus['project_url'] }}</a></p>
+ <p><b>HomePage</b> : <a rel="nofollow" target="_blank" href="{{ corpus['url'] }}">{{ corpus['url'] }}</a></p>
  <p><b>Authors</b> : {{ corpus['authors'][0] }}</p>
  <hr>
  <h2>Download and Use</h2>
@@ -27,8 +27,12 @@ It's get path file of corpus.<br />
     get_file('{{ corpus['name'] }}')</code><br />
     if <code>get_file('{{ corpus['name'] }}')</code> is <code>None</code> than you not download <code>{{ corpus['name'] }}</code>.
  <hr>
- <h2>File Details</h2>
- <p>File Name : {{ corpus['release']['latest_version']['file_name'] }}</p>
- <p>md5 : {{ corpus['release']['latest_version']['md5'] }}</p>
- <p>Link Download : <a rel="nofollow" target="_blank" href="{{ corpus['release']['latest_version']['download'] }}">{{ corpus['download'] }}</a></p>
+ <h3>Release history</h3>
+ {% for i in corpus['versions'] %}
+ <h4>{{ i }}</h4>
+ <p>File Name : {{ corpus['versions'][i]['filename'] }}</p>
+ <p>md5 : {{ corpus['versions'][i]['md5'] }}</p>
+ <p>Link Download : <a rel="nofollow" target="_blank" href="{{ corpus['versions'][i]['download_url'] }}">{{ corpus['versions'][i]['filename'] }}</a></p>
+{% endfor %}
+
 {% endblock %}

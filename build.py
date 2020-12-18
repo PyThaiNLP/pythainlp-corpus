@@ -6,7 +6,7 @@ import sys
 import requests
 from jinja2 import Environment, FileSystemLoader
 
-json_db_url = 'https://github.com/PyThaiNLP/pythainlp-corpus/raw/2.1/db.json'
+json_db_url = 'https://github.com/PyThaiNLP/pythainlp-corpus/raw/2.2/db.json'
 
 r = requests.get(json_db_url)
 
@@ -39,6 +39,7 @@ with open(filename, 'w', encoding = 'utf-8') as fh:
 # details
 template = env.get_template('details.html')
 for corpus in listcorpus:
+    #print(corpus)
     filename = os.path.join(root, 'html', str(corpus['name']) + '.html')
     with open(filename, 'w', encoding = 'utf-8') as fh:
         fh.write(template.render(corpus = corpus))
