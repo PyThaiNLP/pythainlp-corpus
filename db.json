@@ -18,7 +18,8 @@
             "0.1": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
-                "md5": "ff1f76282b7adcb310ffad3ecd867c3d"
+                "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
+                "pythainlp_version": "*"
             }
         }
     },
@@ -37,7 +38,8 @@
             "0.1": {
                 "filename": "wiktionary-11-2-2020.tsv",
                 "download_url": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -56,7 +58,8 @@
             "0.1": {
                 "filename": "thaig2p-0.1.tar",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -75,7 +78,8 @@
             "0.1": {
                 "filename": "thai2vec.bin",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thai2fit_wv-v0.1/thai2vec.bin",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -94,7 +98,8 @@
             "0.1": {
                 "filename": "thai2rom.csv",
                 "download_url": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -113,7 +118,8 @@
             "0.1": {
                 "filename": "thai2rom-pytorch.tar",
                 "download_url": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -132,7 +138,8 @@
             "0.1": {
                 "filename": "thai2rom-pytorch-attn-v0.1.tar",
                 "download_url": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -151,12 +158,14 @@
             "1.3": {
                 "filename": "thai-ner-1-3.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": "<=2.2"
             },
             "1.4": {
                 "filename": "thai-ner-1-4.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -175,7 +184,8 @@
             "0.32": {
                 "filename": "itos_lstm.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_itos_lstm-v0.32/thwiki_itos.pkl",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -194,7 +204,8 @@
             "0.32": {
                 "filename": "thwiki_model_lstm.pth",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_lm_lstm-v0.32/thwiki_model_lstm.pth",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -217,7 +228,8 @@
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -240,7 +252,8 @@
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -263,7 +276,8 @@
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -286,7 +300,8 @@
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -309,7 +324,8 @@
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -332,7 +348,8 @@
             "1.0": {
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -355,12 +372,14 @@
             "0.2.2": {
                 "filename": "pos_lst20_perceptron.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_perceptron-v0.2.2.pkl",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             },
             "0.2.3": {
                 "filename": "pos_lst20_perceptron.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.3/pos_lst20_perceptron-v0.2.3.pkl",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -383,12 +402,14 @@
             "0.2.2": {
                 "filename": "pos_lst20_unigram.json",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_unigram-v0.2.2.json",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             },
             "0.2.3": {
                 "filename": "pos_lst20_unigram.json",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.3/pos_lst20_unigram-v0.2.3.json",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     },
@@ -411,12 +432,14 @@
             "0.1": {
                 "filename": "cls.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-cls-v0.1/cls.crfsuite",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             },
             "0.2": {
                 "filename": "cls-v0.2.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-cls-v0.2/cls-v0.2.crfsuite",
-                "md5": "-"
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
             }
         }
     }
