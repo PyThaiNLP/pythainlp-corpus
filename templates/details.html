@@ -32,6 +32,7 @@ It's get path file of corpus.<br />
  <h4>{{ i }}</h4>
  <p>File Name : {{ corpus['versions'][i]['filename'] }}</p>
  <p>md5 : {{ corpus['versions'][i]['md5'] }}</p>
+ <p>PyThaiNLP version: {{ corpus['versions'][i]['pythainlp_version'] }}</p>
  <p>Link Download : <a rel="nofollow" target="_blank" href="{{ corpus['versions'][i]['download_url'] }}">{{ corpus['versions'][i]['filename'] }}</a></p>
 {% endfor %}
 
