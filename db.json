@@ -15,6 +15,12 @@
         ],
         "author_email": "wannaphong@kkumail.com",
         "versions": {
+            "0.0.0": {
+                "filename": "test.txt",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
+                "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
+                "pythainlp_version": "==1.0"
+            },
             "0.0.1": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
@@ -50,6 +56,18 @@
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
                 "pythainlp_version": ">=2.2<2.3"
+            },
+            "0.0.7": {
+                "filename": "test.txt",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
+                "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
+                "pythainlp_version": ">2.2"
+            },
+            "0.0.8": {
+                "filename": "test.txt",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
+                "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
+                "pythainlp_version": ">=2.2<=2.3"
             },
             "0.1": {
                 "filename": "test.txt",
