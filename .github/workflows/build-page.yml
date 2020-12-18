@@ -1,6 +1,8 @@
 name: Build pages
 
-on: [push]
+on:
+    branches:
+        - 2.2
 
 jobs:
   deploy:
