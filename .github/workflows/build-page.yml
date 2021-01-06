@@ -3,7 +3,7 @@ name: Build pages
 on:
     push:
         branches:
-            - 2.2
+            - master
 
 jobs:
   deploy:
