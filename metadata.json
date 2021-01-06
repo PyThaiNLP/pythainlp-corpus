@@ -1,0 +1,26 @@
+{
+    "corpus_name": {
+        "name": "corpus_name",
+        "latest_version": "latest version of corpus",
+        "description": "corpus description",
+        "long_description": "corpus long description",
+        "url": "corpus homepage url",
+        "project_urls": {
+            "project_page": "corpus project page",
+            "source": "corpus soure"
+        },
+        "license": "corpus license",
+        "authors": [
+            "list authors of corpus"
+        ],
+        "author_email": "author email of corpus",
+        "versions": {
+            "version": {
+                "filename": "filename of corpus",
+                "download_url": "download url of corpus",
+                "md5": "hash file",
+                "pythainlp_version": "Supported PyThaiNLP versions"
+            }
+        }
+    }
+}

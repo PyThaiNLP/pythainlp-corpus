@@ -3,17 +3,15 @@ Build PyThaiNLP Corpus WebSite
 """
 import os
 import sys
-import requests
+import json
 from jinja2 import Environment, FileSystemLoader
+from shutil import copyfile
+import os
 
-json_db_url = 'https://github.com/PyThaiNLP/pythainlp-corpus/raw/2.1/db.json'
+json_db_url = 'db.json'
 
-r = requests.get(json_db_url)
-
-if r.status_code != 200:
-    sys.exit(0)
-
-db = r.json()
+with open(json_db_url, encoding='utf-8') as fh:
+    db = json.load(fh)
 
 root = os.path.dirname(os.path.abspath(__file__))
 templates_dir = os.path.join(root, 'templates')
@@ -39,6 +37,9 @@ with open(filename, 'w', encoding = 'utf-8') as fh:
 # details
 template = env.get_template('details.html')
 for corpus in listcorpus:
+    #print(corpus)
     filename = os.path.join(root, 'html', str(corpus['name']) + '.html')
     with open(filename, 'w', encoding = 'utf-8') as fh:
         fh.write(template.render(corpus = corpus))
+
+copyfile(json_db_url, os.path.join('html',json_db_url))
