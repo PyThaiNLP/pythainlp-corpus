@@ -1,5 +1,7 @@
 # PyThaiNLP Corpus
-[![Build Status](https://travis-ci.org/PyThaiNLP/pythainlp-corpus.svg?branch=2.1)](https://travis-ci.org/PyThaiNLP/pythainlp-corpus)
+![Build pages](https://github.com/PyThaiNLP/pythainlp-corpus/workflows/Build%20pages/badge.svg)
+
+Website for view a corpus: [pythainlp.github.io/pythainlp-corpus/](https://pythainlp.github.io/pythainlp-corpus/)
 
 Corpora and language models for [PyThaiNLP](https://github.com//PyThaiNLP/pythainlp).
 
@@ -19,3 +21,4 @@ Corpora and language models for [PyThaiNLP](https://github.com//PyThaiNLP/pythai
 - `2.1` for PyThaiNLP 2.1
 - `2.0` for PyThaiNLP 2.0
 - `1.7` for PyThaiNLP 1.7
+- `gh-pages` for website
