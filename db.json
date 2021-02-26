@@ -247,6 +247,26 @@
             }
         }
     },
+    "thainer-1.4": {
+        "name": "thainer-1.4",
+        "latest_version": "1.4",
+        "description": "Thai Named Entity Recognition 1.4 for PyThaiNLP 2.3",
+        "long_description": "Thai Named Entity Recognition",
+        "url": "https://github.com/wannaphong/thai-ner/",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@kkumail.com",
+        "license": "cc-by-4.0",
+        "versions": {
+            "1.4": {
+                "filename": "thai-ner-1-4.crfsuite",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
+            }
+        }
+    },
     "wiki_itos_lstm": {
         "name": "wiki_itos_lstm",
         "latest_version": "0.32",
