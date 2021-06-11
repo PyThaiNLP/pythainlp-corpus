@@ -564,5 +564,53 @@
                 "pythainlp_version": ">=2.2.6"
             }
         }
+    },
+    "tnc_bigram_word_freqs": {
+        "name": "tnc_bigram_word_freqs",
+        "latest_version": "2017",
+        "description": "Bigram word frequency from Thai National Corpus (TNC)",
+        "long_description": "Bigram word frequency from Thai National Corpus (TNC)",
+        "url": "http://www.arts.chula.ac.th/ling",
+        "project_urls": {
+            "project_page": "http://www.arts.chula.ac.th/ling",
+            "source": "http://www.arts.chula.ac.th/ling"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "chula"
+        ],
+        "author_email": "?",
+        "versions": {
+            "2017": {
+                "filename": "201705_2gram.txt",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/tnc-v2017/201705_2gram.txt",
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
+            }
+        }
+    },
+    "tnc_tigram_word_freqs": {
+        "name": "tnc_tigram_word_freqs",
+        "latest_version": "2017",
+        "description": "Tigram word frequency from Thai National Corpus (TNC)",
+        "long_description": "Tigram word frequency from Thai National Corpus (TNC)",
+        "url": "http://www.arts.chula.ac.th/ling",
+        "project_urls": {
+            "project_page": "http://www.arts.chula.ac.th/ling",
+            "source": "http://www.arts.chula.ac.th/ling"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "chula"
+        ],
+        "author_email": "?",
+        "versions": {
+            "2017": {
+                "filename": "201705_3gram.txt",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/tnc-v2017/201705_3gram.txt",
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
+            }
+        }
     }
 }
