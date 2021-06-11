@@ -612,5 +612,29 @@
                 "pythainlp_version": ">=2.2"
             }
         }
+    },
+    "oscar_icu": {
+        "name": "oscar_icu",
+        "latest_version": "1.0",
+        "description": "Thai unigram word frequency from OSCAR Corpus (icu word tokenize)",
+        "long_description": "Thai unigram word frequency from OSCAR Corpus (icu word tokenize)",
+        "url": "https://web.facebook.com/groups/colab.thailand/permalink/1524070061101680/?_rdc=1&_rdr",
+        "project_urls": {
+            "project_page": "https://web.facebook.com/groups/colab.thailand/permalink/1524070061101680/?_rdc=1&_rdr",
+            "source": "https://colab.research.google.com/github/vistec-AI/colab/blob/master/OSCAR.ipynb"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Korakot Chaovavanich"
+        ],
+        "author_email": "?",
+        "versions": {
+            "1.0": {
+                "filename": "oscar_word_freq.csv",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/oscar_icu-v1.0/oscar_word_freq.csv",
+                "md5": "-",
+                "pythainlp_version": ">=2.2"
+            }
+        }
     }
 }
