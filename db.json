@@ -636,5 +636,29 @@
                 "pythainlp_version": ">=2.2"
             }
         }
+    },
+    "ltw2v": {
+        "name": "ltw2v",
+        "latest_version": "0.1",
+        "description": "LTW2V: The Large Thai Word2Vec",
+        "long_description": "LTW2V is The large Thai Word2Vec. It built with oxidized-thainlp from OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
+        "url": "https://github.com/PyThaiNLP/large-thaiword2vec",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
+            "source": "https://github.com/PyThaiNLP/large-thaiword2vec"
+        },
+        "license": "Apache-2.0 License",
+        "authors": [
+            "Wannaphong Phatthiyaphaibu"
+        ],
+        "author_email": "wannaphong@kkumail.com",
+        "versions": {
+            "0.1": {
+                "filename": "LTW2V_v0.1.bin",
+                "download_url": "https://github.com/PyThaiNLP/large-thaiword2vec/releases/download/v0.1/LTW2V_v0.1.bin",
+                "md5": "-",
+                "pythainlp_version": ">=2.3"
+            }
+        }
     }
 }
