@@ -589,11 +589,11 @@
             }
         }
     },
-    "tnc_tigram_word_freqs": {
-        "name": "tnc_tigram_word_freqs",
+    "tnc_trigram_word_freqs": {
+        "name": "tnc_trigram_word_freqs",
         "latest_version": "2017",
-        "description": "Tigram word frequency from Thai National Corpus (TNC)",
-        "long_description": "Tigram word frequency from Thai National Corpus (TNC)",
+        "description": "Trigram word frequency from Thai National Corpus (TNC)",
+        "long_description": "Trigram word frequency from Thai National Corpus (TNC)",
         "url": "http://www.arts.chula.ac.th/ling",
         "project_urls": {
             "project_page": "http://www.arts.chula.ac.th/ling",
