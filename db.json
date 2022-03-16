@@ -765,7 +765,7 @@
                 "filename": "test.zip",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test_zip-v0.1/test.zip",
                 "md5": "-",
-                "pythainlp_version": "==1.0",
+                "pythainlp_version": ">=3.0",
                 "is_zip": "True",
                 "is_tar_gz": "False"
             }
