@@ -687,7 +687,9 @@
                 "filename": "201705_3gram.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/tnc-v2017/201705_3gram.txt",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
