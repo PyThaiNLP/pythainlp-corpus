@@ -744,5 +744,31 @@
                 "is_tar_gz": "False"
             }
         }
+    },
+    "test_zip": {
+        "name": "test_zip",
+        "latest_version": "0.1",
+        "description": "It's a test file.",
+        "long_description": "A handy dummy corpus used for testing (like in unit testing) purpose.",
+        "url": "https://github.com/PyThaiNLP/pythainlp-corpus/",
+        "project_urls": {
+            "project_page": "https://www.thainlp.org/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@kkumail.com",
+        "versions": {
+            "0.1": {
+                "filename": "test.zip",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test_zip-v0.1/test.zip",
+                "md5": "-",
+                "pythainlp_version": "==1.0",
+                "is_zip": "True",
+                "is_tar_gz": "False"
+            }
+        }
     }
 }
