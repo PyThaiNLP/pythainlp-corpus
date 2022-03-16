@@ -19,79 +19,105 @@
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": "==1.0"
+                "pythainlp_version": "==1.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.1": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": "<2.0"
+                "pythainlp_version": "<2.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.2": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": "<=2.0"
+                "pythainlp_version": "<=2.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.3": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">=2.1<2.2"
+                "pythainlp_version": ">=2.1<2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.4": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": "<2.0"
+                "pythainlp_version": "<2.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.5": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">2.2<2.3"
+                "pythainlp_version": ">2.2<2.3",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.6": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">=2.2<2.3"
+                "pythainlp_version": ">=2.2<2.3",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.7": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">2.2"
+                "pythainlp_version": ">2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.8": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">=2.2<=2.3"
+                "pythainlp_version": ">=2.2<=2.3",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.9": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">=2.*"
+                "pythainlp_version": ">=2.*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.10": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": ">=1.10"
+                "pythainlp_version": ">=1.10",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.0.11": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c36",
-                "pythainlp_version": ">=1.10"
+                "pythainlp_version": ">=1.10",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.1": {
                 "filename": "test.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test-0.1/test.txt",
                 "md5": "ff1f76282b7adcb310ffad3ecd867c3d",
-                "pythainlp_version": "*"
+                "pythainlp_version": "*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -111,7 +137,9 @@
                 "filename": "wiktionary-11-2-2020.tsv",
                 "download_url": "https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -131,7 +159,9 @@
                 "filename": "thaig2p-0.1.tar",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thaig2p-v0.1/thaig2p-0.1.tar",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -151,7 +181,9 @@
                 "filename": "thai2vec.bin",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thai2fit_wv-v0.1/thai2vec.bin",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -171,7 +203,9 @@
                 "filename": "thai2rom.csv",
                 "download_url": "https://raw.githubusercontent.com/wannaphong/thai-romanization/master/dataset/data.csv",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -191,7 +225,9 @@
                 "filename": "thai2rom-pytorch.tar",
                 "download_url": "https://raw.githubusercontent.com/c4n/thai-romanization/master/notebook/thai2rom-pytorch.tar",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -211,7 +247,9 @@
                 "filename": "thai2rom-pytorch-attn-v0.1.tar",
                 "download_url": "https://raw.githubusercontent.com/artificiala/thai-romanization/master/notebook/thai2rom-pytorch-attn-v0.1.tar",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -231,19 +269,25 @@
                 "filename": "thai-ner-1-3.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.3/data.model",
                 "md5": "-",
-                "pythainlp_version": "<=2.2"
+                "pythainlp_version": "<=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "1.4": {
                 "filename": "thai-ner-1-4.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
                 "md5": "-",
-                "pythainlp_version": ">=2.2<=2.2.6"
+                "pythainlp_version": ">=2.2<=2.2.6",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "1.5": {
                 "filename": "thai-ner-1-5.crfsuite",
                 "download_url": "https://github.com/wannaphong/thai-ner/releases/download/1.5/thai-ner-1-5-newmm-lst20.crfsuite",
                 "md5": "-",
-                "pythainlp_version": ">=2.2.7"
+                "pythainlp_version": ">=2.2.7",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -263,7 +307,9 @@
                 "filename": "thai-ner-1-4.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thainer-1.4/thai-ner-1-4.crfsuite",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -283,7 +329,9 @@
                 "filename": "itos_lstm.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_itos_lstm-v0.32/thwiki_itos.pkl",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -303,7 +351,9 @@
                 "filename": "thwiki_model_lstm.pth",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_lm_lstm-v0.32/thwiki_model_lstm.pth",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -327,7 +377,9 @@
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_newmm-moses_130000-130000_v1.0.tar.gz",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "True"
             }
         }
     },
@@ -351,7 +403,9 @@
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_spm-spm_32000-joined_v1.0.tar.gz",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "True"
             }
         }
     },
@@ -375,7 +429,9 @@
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_moses-spm_130000-16000_v1.0.tar.gz",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "True"
             }
         }
     },
@@ -399,7 +455,9 @@
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_spm-spm_32000-joined_v1.0.tar.gz",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "True"
             }
         }
     },
@@ -423,7 +481,9 @@
                 "filename": "SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_en-th_moses-newmm_space_130000-130000_v1.0.tar.gz",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "True"
             }
         }
     },
@@ -447,7 +507,9 @@
                 "filename": "SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
                 "download_url": "https://github.com/vistec-AI/model-releases/releases/download/SCB_1M%2BTBASE_v1.0/SCB_1M-MT_OPUS+TBASE_th-en_spm-moses_16000-130000_v1.0.tar.gz",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "True"
             }
         }
     },
@@ -471,13 +533,17 @@
                 "filename": "pos_lst20_perceptron.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_perceptron-v0.2.2.pkl",
                 "md5": "-",
-                "pythainlp_version": ">=2.2<2.2.6"
+                "pythainlp_version": ">=2.2<2.2.6",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.2.3": {
                 "filename": "pos_lst20_perceptron.pkl",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.3/pos_lst20_perceptron-v0.2.3.pkl",
                 "md5": "-",
-                "pythainlp_version": ">=2.2.6"
+                "pythainlp_version": ">=2.2.6",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -501,13 +567,17 @@
                 "filename": "pos_lst20_unigram.json",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.2/pos_lst20_unigram-v0.2.2.json",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.2.3": {
                 "filename": "pos_lst20_unigram.json",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-v0.2.3/pos_lst20_unigram-v0.2.3.json",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -531,13 +601,17 @@
                 "filename": "cls.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-cls-v0.1/cls.crfsuite",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             },
             "0.2": {
                 "filename": "cls-v0.2.crfsuite",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/lst20-cls-v0.2/cls-v0.2.crfsuite",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -561,7 +635,9 @@
                 "filename": "w2p_0.1.npy",
                 "download_url": "https://github.com/wannaphong/Thai_W2P/releases/download/v0.1/w2p_0.1.npy",
                 "md5": "-",
-                "pythainlp_version": ">=2.2.6"
+                "pythainlp_version": ">=2.2.6",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -585,7 +661,9 @@
                 "filename": "201705_2gram.txt",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/tnc-v2017/201705_2gram.txt",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -633,7 +711,9 @@
                 "filename": "oscar_word_freq.csv",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/oscar_icu-v1.0/oscar_word_freq.csv",
                 "md5": "-",
-                "pythainlp_version": ">=2.2"
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
@@ -657,7 +737,9 @@
                 "filename": "LTW2V_v0.1.bin",
                 "download_url": "https://github.com/PyThaiNLP/large-thaiword2vec/releases/download/v0.1/LTW2V_v0.1.bin",
                 "md5": "-",
-                "pythainlp_version": ">=2.3"
+                "pythainlp_version": ">=2.3",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     }
