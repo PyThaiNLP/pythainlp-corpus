@@ -19,7 +19,9 @@
                 "filename": "filename of corpus",
                 "download_url": "download url of corpus",
                 "md5": "hash file",
-                "pythainlp_version": "Supported PyThaiNLP versions"
+                "pythainlp_version": "Supported PyThaiNLP versions",
+                "is_zip": "True or False",
+                "is_tar_gz": "True or False"
             }
         }
     }
