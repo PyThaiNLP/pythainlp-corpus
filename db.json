@@ -617,7 +617,7 @@
     },
     "thai_w2p": {
         "name": "thai_w2p",
-        "latest_version": "0.1",
+        "latest_version": "0.2",
         "description": "Thai Word-to-Phoneme (W2P) converter ",
         "long_description": "Thai Word-to-Phoneme (W2P) converter",
         "url": "https://github.com/wannaphong/Thai_W2P",
@@ -636,6 +636,14 @@
                 "download_url": "https://github.com/wannaphong/Thai_W2P/releases/download/v0.1/w2p_0.1.npy",
                 "md5": "-",
                 "pythainlp_version": ">=2.2.6",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            },
+            "0.2": {
+                "filename": "thai_w2p_v0.2.npy",
+                "download_url": "https://github.com/wannaphong/Thai_W2P/releases/download/v0.2/thai_w2p_v0.2.npy",
+                "md5": "-",
+                "pythainlp_version": ">=3.0.6",
                 "is_zip": "False",
                 "is_tar_gz": "False"
             }
