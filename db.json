@@ -617,7 +617,7 @@
     },
     "thai_w2p": {
         "name": "thai_w2p",
-        "latest_version": "0.1",
+        "latest_version": "0.2",
         "description": "Thai Word-to-Phoneme (W2P) converter ",
         "long_description": "Thai Word-to-Phoneme (W2P) converter",
         "url": "https://github.com/wannaphong/Thai_W2P",
@@ -636,6 +636,14 @@
                 "download_url": "https://github.com/wannaphong/Thai_W2P/releases/download/v0.1/w2p_0.1.npy",
                 "md5": "-",
                 "pythainlp_version": ">=2.2.6",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            },
+            "0.2": {
+                "filename": "thai_w2p_v0.2.npy",
+                "download_url": "https://github.com/wannaphong/Thai_W2P/releases/download/v0.2/thai_w2p_v0.2.npy",
+                "md5": "-",
+                "pythainlp_version": ">=3.0.6",
                 "is_zip": "False",
                 "is_tar_gz": "False"
             }
@@ -764,6 +772,32 @@
             "0.1": {
                 "filename": "test.zip",
                 "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/test_zip-v0.1/test.zip",
+                "md5": "-",
+                "pythainlp_version": ">=3.0",
+                "is_zip": "True",
+                "is_tar_gz": "False"
+            }
+        }
+    },
+    "onnx_lst20ner": {
+        "name": "onnx_lst20ner",
+        "latest_version": "1.0",
+        "description": "lst20 ner model",
+        "long_description": "This is lst20 ner model from wangchanberta. It is onnx model.",
+        "url": "https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased",
+        "project_urls": {
+            "project_page": "https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased",
+            "source": "https://github.com/vistec-AI/thai2transformers"
+        },
+        "license": "Apache-2.0 License",
+        "authors": [
+            "airesearch"
+        ],
+        "author_email": "",
+        "versions": {
+            "1.0": {
+                "filename": "lst20ner-onnx-v1.0.zip",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/onnx_lst20ner-v1.0/lst20ner-onnx-v1.0.zip",
                 "md5": "-",
                 "pythainlp_version": ">=3.0",
                 "is_zip": "True",

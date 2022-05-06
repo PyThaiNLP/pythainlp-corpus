@@ -16,7 +16,7 @@ Corpora and language models for [PyThaiNLP](https://github.com//PyThaiNLP/pythai
 
 ## Branches
 
-- `master` for test and dev
+- `master` for test and dev (PyThaiNLP 2.3+)
 - `2.2` for PyThaiNLP 2.2
 - `2.1` for PyThaiNLP 2.1
 - `2.0` for PyThaiNLP 2.0
