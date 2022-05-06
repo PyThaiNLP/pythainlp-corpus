@@ -770,5 +770,31 @@
                 "is_tar_gz": "False"
             }
         }
+    },
+    "thai_nner": {
+        "name": "thai_nner",
+        "latest_version": "1.0",
+        "description": "Thai Nested Named Entity Recognition",
+        "long_description": "Thai Nested Named Entity Recognition",
+        "url": "https://github.com/vistec-AI/Thai-NNER",
+        "project_urls": {
+            "project_page": "https://github.com/vistec-AI/Thai-NNER",
+            "source": "https://github.com/vistec-AI/Thai-NNER"
+        },
+        "license": "CC-BY-SA 3.0",
+        "authors": [
+            "Weerayut Buaphet"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "thai_nner_model.pth",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thai_nner_v1.0/model.pth",
+                "md5": "-",
+                "pythainlp_version": "*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
     }
 }
