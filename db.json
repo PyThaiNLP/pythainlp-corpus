@@ -544,6 +544,14 @@
                 "pythainlp_version": ">=2.2.6",
                 "is_zip": "False",
                 "is_tar_gz": "False"
+            },
+            "0.2.4": {
+                "filename": "pos_lst20_perceptron-v0.2.4.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/pos_lst20-v0.2.4/pos_lst20_perceptron-v0.2.4.json",
+                "md5": "-",
+                "pythainlp_version": ">3.0.9",
+                "is_zip": "False",
+                "is_tar_gz": "False"
             }
         }
     },
