@@ -838,5 +838,57 @@
                 "is_tar_gz": "False"
             }
         }
+    },
+    "blackboard_unigram_tagger": {
+        "name": "blackboard_unigram_tagger",
+        "latest_version": "1.0",
+        "description": "part-of-speech tagging (unigram) from blackboard treebank.",
+        "long_description": "part-of-speech tagging (unigram) from blackboard treebank.",
+        "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/blackboard_unigram_tagger-v1.0",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "blackboard_unigram_tagger-v1.0.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/blackboard_unigram_tagger-v1.0/blackboard_unigram_tagger-v1.0.json",
+                "md5": "-",
+                "pythainlp_version": "*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
+    },
+    "blackboard_pt_tagger": {
+        "name": "blackboard_pt_tagger",
+        "latest_version": "1.0",
+        "description": "part-of-speech tagging (perceptron) from blackboard treebank.",
+        "long_description": "part-of-speech tagging (perceptron) from blackboard treebank.",
+        "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/blackboard_pt_tagger-v1.0",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "blackboard_pt_tagger-v1.0_pythainlp.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/blackboard_pt_tagger-v1.0/blackboard_pt_tagger-v1.0_pythainlp.json",
+                "md5": "-",
+                "pythainlp_version": "*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
     }
 }
