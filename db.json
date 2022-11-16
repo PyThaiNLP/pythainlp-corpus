@@ -761,6 +761,58 @@
             }
         }
     },
+    "ltw2v_v1.0_5_window": {
+        "name": "ltw2v_v1.0_5_window",
+        "latest_version": "1.0",
+        "description": "LTW2V: The Large Thai Word2Vec v1.0 (5 window)",
+        "long_description": "LTW2V is The large Thai Word2Vec. It trained OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
+        "url": "https://github.com/PyThaiNLP/large-thaiword2vec",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
+            "source": "https://github.com/PyThaiNLP/large-thaiword2vec"
+        },
+        "license": "Apache-2.0 License",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@yahoo.com",
+        "versions": {
+            "1.0": {
+                "filename": "LTW2V_v1.0-window5.bin",
+                "download_url": "https://zenodo.org/record/7280277/files/LTW2V_v1.0-window5.bin",
+                "md5": "-",
+                "pythainlp_version": ">=4.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
+    },
+    "ltw2v_v1.0_15_window": {
+        "name": "ltw2v_v1.0_15_window",
+        "latest_version": "1.0",
+        "description": "LTW2V: The Large Thai Word2Vec v1.0 (15 window)",
+        "long_description": "LTW2V is The large Thai Word2Vec. It trained OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
+        "url": "https://github.com/PyThaiNLP/large-thaiword2vec",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
+            "source": "https://github.com/PyThaiNLP/large-thaiword2vec"
+        },
+        "license": "Apache-2.0 License",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@yahoo.com",
+        "versions": {
+            "1.0": {
+                "filename": "LTW2V_v1.0-window5.bin",
+                "download_url": "https://zenodo.org/record/7280277/files/LTW2V_v1.0-window15.bin",
+                "md5": "-",
+                "pythainlp_version": ">=4.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
+    },
     "test_zip": {
         "name": "test_zip",
         "latest_version": "0.1",
