@@ -942,5 +942,31 @@
                 "is_tar_gz": "False"
             }
         }
+    },
+    "thai_dict": {
+        "name": "thai_dict",
+        "latest_version": "1.0",
+        "description": "This dataset collect from Thai wiktionary.",
+        "long_description": "Thai dictionary from Thai wiktionary.",
+        "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/thai_dict-v1.0",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
+            "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
+        },
+        "license": "CC BY-SA 4.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "thai_dictionary_v1.0.csv",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/thai_dict-v1.0/thai_dictionary.csv",
+                "md5": "-",
+                "pythainlp_version": "*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
     }
 }
