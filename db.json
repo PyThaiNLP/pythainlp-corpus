@@ -968,5 +968,31 @@
                 "is_tar_gz": "False"
             }
         }
+    },
+    "thai_synonym": {
+        "name": "thai_synonym",
+        "latest_version": "1.0",
+        "description": "The synonym for thai (open source & open data)",
+        "long_description": "The synonym for thai (open source & open data)",
+        "url": "https://github.com/PyThaiNLP/thai-synonym",
+        "project_urls": {
+            "project_page": "https://github.com/PyThaiNLP/thai-synonym",
+            "source": "https://github.com/PyThaiNLP/thai-synonym"
+        },
+        "license": "CC-0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "-",
+        "versions": {
+            "1.0": {
+                "filename": "thai_synonym_v1.0.csv",
+                "download_url": "https://github.com/PyThaiNLP/thai-synonym/raw/master/data.csv",
+                "md5": "-",
+                "pythainlp_version": "*",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
     }
 }
