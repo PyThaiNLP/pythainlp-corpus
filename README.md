@@ -1,7 +1,7 @@
 # PyThaiNLP Corpus
 ![Build pages](https://github.com/PyThaiNLP/pythainlp-corpus/workflows/Build%20pages/badge.svg)
 
-Website for view a corpus: [pythainlp.github.io/pythainlp-corpus/](https://pythainlp.github.io/pythainlp-corpus/)
+Website for view a corpus: [pythainlp.org/pythainlp-corpus/](https://pythainlp.org/pythainlp-corpus/)
 
 Corpora and language models for [PyThaiNLP](https://github.com//PyThaiNLP/pythainlp).
 
