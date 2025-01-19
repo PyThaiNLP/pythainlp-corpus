@@ -35,41 +35,40 @@
     </header>
     <main role="main" class="container">
             
-<div class="bg-light">
+<div class="bg-light p-4 rounded">
     <p><a class="btn btn-secondary" href="./list-corpus.html">< Back</a></p>
-<div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded box-shadow">
-    <div class="lh-100">
-      <h1 class="mb-0 text-white lh-100">g2p</h1>
-      <small>latest version: 0.1</small>
+    <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded box-shadow">
+        <div class="lh-100">
+            <h1 class="mb-0 text-white lh-100">g2p</h1>
+            <small>latest version: 0.1</small>
+        </div>
     </div>
-  </div>
+    <p></p>
+    <br>
+    <p><strong>Description:</strong> Thai grapheme to phoneme</p>
+    <p><strong>Long Description:</strong> Data from Thai Wiktionary)</p>
+    <p><strong>HomePage:</strong> <a rel="nofollow" target="_blank" href="https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P">https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P</a></p>
+    <p><strong>Authors:</strong> Wannaphong Phatthiyaphaibun</p>
+    <hr>
+    <h2>Download and Use</h2>
+    <h3>Download</h3>
+    <code>from pythainlp.corpus import download<br />
+    download('g2p')</code>
+    <h3>Use</h3>
+    <p>It's get path file of corpus.</p>
+    <code>from pythainlp.corpus import get_corpus_path<br />
+    get_corpus_path('g2p')</code>
+    <p>If <code>get_corpus_path('g2p')</code> is <code>None</code> then you have not downloaded <code>g2p</code>.</p>
+    <hr>
+    <h3>Release history</h3>
+    
+    <h4>0.1</h4>
+    <p><strong>File Name:</strong> wiktionary-11-2-2020.tsv</p>
+    <p><strong>md5:</strong> -</p>
+    <p><strong>PyThaiNLP version:</strong> >=2.2</p>
+    <p><strong>Link Download:</strong> <a rel="nofollow" target="_blank" href="https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv">wiktionary-11-2-2020.tsv</a></p>
+    
 </div>
- <p></p>
- <br>
-<p>Description : Thai grapheme to phoneme</p>
-<p>Long Description : Data from Thai Wiktionary)</p>
- <p><b>HomePage</b> : <a rel="nofollow" target="_blank" href="https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P">https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P</a></p>
- <p><b>Authors</b> : Wannaphong Phatthiyaphaibun</p>
- <hr>
- <h2>Download and Use</h2>
- <h3>Download</h3>
- <code>from pythainlp.corpus import download<br />
-download('g2p')</code>
-<h3>Use</h3>
-It's get path file of corpus.<br />
-<code>from pythainlp.corpus import get_corpus_path<br />
-    get_corpus_path('g2p')</code><br />
-    if <code>get_corpus_path('g2p')</code> is <code>None</code> than you not download <code>g2p</code>.
- <hr>
- <h3>Release history</h3>
- 
- <h4>0.1</h4>
- <p>File Name : wiktionary-11-2-2020.tsv</p>
- <p>md5 : -</p>
- <p>PyThaiNLP version: >=2.2</p>
- <p>Link Download : <a rel="nofollow" target="_blank" href="https://raw.githubusercontent.com/PyThaiNLP/lexicon-thai/master/G2P/wiktionary-11-2-2020.tsv">wiktionary-11-2-2020.tsv</a></p>
-
-
 
         </main>
         <footer class="footer">
