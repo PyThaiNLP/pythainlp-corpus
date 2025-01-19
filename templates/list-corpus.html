@@ -1,21 +1,27 @@
 {% extends "head.html" %}
 {% block title %} List Corpus & Models{% endblock %}
 {% block body %}
- <h1>List Corpus & Models</h1>
- <p><img alt="PyPI" src="https://img.shields.io/pypi/v/pythainlp?label=PyThaiNLP&style=flat-square"><br />
+ <h1 class="display-4 text-center my-4">List Corpus & Models</h1>
+ <p class="lead text-center"><img alt="PyPI" src="https://img.shields.io/pypi/v/pythainlp?label=PyThaiNLP&style=flat-square"><br />
     List PyThaiNLP Corpus and Models.</p>
  <div class="container">
     <!-- Example row of columns -->
     <div class="row">
  {% for corpus in listcorpus %}
- <div class="col-md-4">
-    <h2>{{ corpus['name'] }}</h2>
-    {% if corpus['description']|length < 50 %}
-        <p>{{ corpus['description'] }}</p>
-    {% else %}
-        <p>{{ corpus['description'][:50]+' ...' }}</p>
-    {% endif %}
-    <p><a class="btn btn-secondary" href="./{{ corpus['name'] }}.html" role="button">View details &raquo;</a></p>
+ <div class="col-md-4 mb-4">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">{{ corpus['name'] }}</h2>
+            {% if corpus['description']|length < 50 %}
+                <p class="card-text">{{ corpus['description'] }}</p>
+            {% else %}
+                <p class="card-text">{{ corpus['description'][:50]+' ...' }}</p>
+            {% endif %}
+        </div>
+        <div class="card-footer">
+            <p><a class="btn btn-secondary" href="./{{ corpus['name'] }}.html" role="button">View details &raquo;</a></p>
+        </div>
+    </div>
  </div>
  {% endfor %}
 </div></div>
