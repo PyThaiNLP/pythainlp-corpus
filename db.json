@@ -335,6 +335,28 @@
             }
         }
     },
+    "wiki_itos_lstm_json": {
+        "name": "wiki_itos_lstm_json",
+        "latest_version": "0.32",
+        "description": "ULMFit index to text for LSTM",
+        "long_description": "ULMFit index to text for LSTM",
+        "url": "https://github.com/cstorm125/thai2fit/",
+        "authors": [
+            "Charin Polpanumas"
+        ],
+        "author_email": "",
+        "license": "cc-by-4.0",
+        "versions": {
+            "0.32": {
+                "filename": "itos_lstm.json",
+                "download_url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/download/wiki_itos_lstm-v0.32/thwiki_itos.json",
+                "md5": "-",
+                "pythainlp_version": ">=2.2",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
+    },
     "wiki_lm_lstm": {
         "name": "wiki_lm_lstm",
         "latest_version": "0.32",
