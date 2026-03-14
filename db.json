@@ -679,6 +679,32 @@
             }
         }
     },
+    "thai_w2p_npz": {
+        "name": "thai_w2p_npz",
+        "latest_version": "0.2",
+        "description": "Thai Word-to-Phoneme (W2P) converter ",
+        "long_description": "Thai Word-to-Phoneme (W2P) converter",
+        "url": "https://github.com/wannaphong/Thai_W2P",
+        "project_urls": {
+            "project_page": "https://github.com/wannaphong/Thai_W2P",
+            "source": "https://github.com/wannaphong/Thai_W2P"
+        },
+        "license": "cc0-1.0",
+        "authors": [
+            "Wannaphong Phatthiyaphaibun"
+        ],
+        "author_email": "wannaphong@yahoo.com",
+        "versions": {
+            "0.2": {
+                "filename": "thai_w2p_v0.2.npz",
+                "download_url": "https://github.com/wannaphong/Thai_W2P/releases/download/v0.2/thai_w2p_v0.2.npz",
+                "md5": "-",
+                "pythainlp_version": ">=5.3.0",
+                "is_zip": "False",
+                "is_tar_gz": "False"
+            }
+        }
+    },
     "tnc_bigram_word_freqs": {
         "name": "tnc_bigram_word_freqs",
         "latest_version": "2017",
