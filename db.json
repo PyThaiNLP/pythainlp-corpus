@@ -2,14 +2,14 @@
     "test": {
         "name": "test",
         "latest_version": "0.1",
-        "description": "It's a test file.",
-        "long_description": "A handy dummy corpus used for testing (like in unit testing) purpose.",
+        "description": "It's a test file",
+        "long_description": "A handy dummy corpus used for testing (like in unit testing) purpose",
         "url": "https://github.com/PyThaiNLP/pythainlp-corpus/",
         "project_urls": {
             "project_page": "https://www.thainlp.org/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -125,13 +125,13 @@
         "name": "g2p",
         "latest_version": "0.1",
         "description": "Thai grapheme to phoneme",
-        "long_description": "Data from Thai Wiktionary)",
+        "long_description": "Data from Thai Wiktionary",
         "url": "https://github.com/PyThaiNLP/lexicon-thai/tree/master/G2P",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@yahoo.com",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "0.1": {
                 "filename": "wiktionary-11-2-2020.tsv",
@@ -153,7 +153,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@yahoo.com",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "0.1": {
                 "filename": "thaig2p-0.1.tar",
@@ -175,7 +175,7 @@
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "0.1": {
                 "filename": "thai2vec.bin",
@@ -197,7 +197,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@yahoo.com",
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "versions": {
             "0.1": {
                 "filename": "thai2rom.csv",
@@ -219,7 +219,7 @@
             "Can Udomcharoenchaikit"
         ],
         "author_email": "",
-        "license": "apache-2.0",
+        "license": "Apache-2.0",
         "versions": {
             "0.1": {
                 "filename": "thai2rom-pytorch.tar",
@@ -241,7 +241,7 @@
             "Chakri Lowphansirikul"
         ],
         "author_email": "",
-        "license": "apache-2.0",
+        "license": "Apache-2.0",
         "versions": {
             "0.1": {
                 "filename": "thai2rom-pytorch-attn-v0.1.tar",
@@ -263,7 +263,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@yahoo.com",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "1.3": {
                 "filename": "thai-ner-1-3.crfsuite",
@@ -301,7 +301,7 @@
             "Wannaphong Phatthiyaphaibun"
         ],
         "author_email": "wannaphong@yahoo.com",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "1.4": {
                 "filename": "thai-ner-1-4.crfsuite",
@@ -323,7 +323,7 @@
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "0.32": {
                 "filename": "itos_lstm.pkl",
@@ -345,7 +345,7 @@
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "0.32": {
                 "filename": "itos_lstm.json",
@@ -367,7 +367,7 @@
             "Charin Polpanumas"
         ],
         "author_email": "",
-        "license": "cc-by-4.0",
+        "license": "CC-BY-4.0",
         "versions": {
             "0.32": {
                 "filename": "thwiki_model_lstm.pth",
@@ -382,14 +382,14 @@
     "scb_1m_th-en_newmm": {
         "name": "scb_1m_th-en_newmm",
         "latest_version": "1.0",
-        "description": "SCB_1M+TBASE_th-en_newmm-moses.",
+        "description": "SCB_1M+TBASE_th-en_newmm-moses",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
             "project_page": "https://airesearch.in.th/",
             "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
         },
-        "license": "-",
+        "license": "NOASSERTION",
         "authors": [
             "VISTEC-depa Thailand Artificial Intelligence Research Institute"
         ],
@@ -408,14 +408,14 @@
     "scb_1m_th-en_spm": {
         "name": "scb_1m_th-en_spm",
         "latest_version": "1.0",
-        "description": "SCB_1M+TBASE_th-en_spm-spm.",
+        "description": "SCB_1M+TBASE_th-en_spm-spm",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
             "project_page": "https://airesearch.in.th/",
             "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
         },
-        "license": "-",
+        "license": "NOASSERTION",
         "authors": [
             "VISTEC-depa Thailand Artificial Intelligence Research Institute"
         ],
@@ -434,14 +434,14 @@
     "scb_1m_en-th_moses": {
         "name": "scb_1m_en-th_moses",
         "latest_version": "1.0",
-        "description": "SCB_1M+TBASE_en-th_moses-spm.",
+        "description": "SCB_1M+TBASE_en-th_moses-spm",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
             "project_page": "https://airesearch.in.th/",
             "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
         },
-        "license": "-",
+        "license": "NOASSERTION",
         "authors": [
             "VISTEC-depa Thailand Artificial Intelligence Research Institute"
         ],
@@ -467,7 +467,7 @@
             "project_page": "https://airesearch.in.th/",
             "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
         },
-        "license": "-",
+        "license": "NOASSERTION",
         "authors": [
             "VISTEC-depa Thailand Artificial Intelligence Research Institute"
         ],
@@ -486,14 +486,14 @@
     "scb_en_th": {
         "name": "scb_en_th",
         "latest_version": "1.0",
-        "description": "scb_1m_en-th_spm",
+        "description": "scb_en-th",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
             "project_page": "https://airesearch.in.th/",
             "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
         },
-        "license": "-",
+        "license": "NOASSERTION",
         "authors": [
             "VISTEC-depa Thailand Artificial Intelligence Research Institute"
         ],
@@ -512,14 +512,14 @@
     "scb_th_en": {
         "name": "scb_th_en",
         "latest_version": "1.0",
-        "description": "scb_1m_en-th_spm",
+        "description": "scb_1m_th-en_spm",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
             "project_page": "https://airesearch.in.th/",
             "source": "https://github.com/vistec-AI/model-releases/releases/tag/SCB_1M%2BTBASE_v1.0"
         },
-        "license": "-",
+        "license": "NOASSERTION",
         "authors": [
             "VISTEC-depa Thailand Artificial Intelligence Research Institute"
         ],
@@ -545,7 +545,7 @@
             "project_page": "https://github.com/PyThaiNLP/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.2.2"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -587,7 +587,7 @@
             "project_page": "https://github.com/PyThaiNLP/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/lst20-v0.2.2"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -621,7 +621,7 @@
             "project_page": "https://github.com/PyThaiNLP/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/tree/lst20-cls-v0.1"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -648,14 +648,14 @@
     "thai_w2p": {
         "name": "thai_w2p",
         "latest_version": "0.2",
-        "description": "Thai Word-to-Phoneme (W2P) converter ",
+        "description": "Thai Word-to-Phoneme (W2P) converter",
         "long_description": "Thai Word-to-Phoneme (W2P) converter",
         "url": "https://github.com/wannaphong/Thai_W2P",
         "project_urls": {
             "project_page": "https://github.com/wannaphong/Thai_W2P",
             "source": "https://github.com/wannaphong/Thai_W2P"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -682,14 +682,14 @@
     "thai_w2p_npz": {
         "name": "thai_w2p_npz",
         "latest_version": "0.2",
-        "description": "Thai Word-to-Phoneme (W2P) converter ",
+        "description": "Thai Word-to-Phoneme (W2P) converter",
         "long_description": "Thai Word-to-Phoneme (W2P) converter",
         "url": "https://github.com/wannaphong/Thai_W2P",
         "project_urls": {
             "project_page": "https://github.com/wannaphong/Thai_W2P",
             "source": "https://github.com/wannaphong/Thai_W2P"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -715,7 +715,7 @@
             "project_page": "http://www.arts.chula.ac.th/ling",
             "source": "http://www.arts.chula.ac.th/ling"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "chula"
         ],
@@ -741,7 +741,7 @@
             "project_page": "http://www.arts.chula.ac.th/ling",
             "source": "http://www.arts.chula.ac.th/ling"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "chula"
         ],
@@ -767,7 +767,7 @@
             "project_page": "https://web.facebook.com/groups/colab.thailand/permalink/1524070061101680/?_rdc=1&_rdr",
             "source": "https://colab.research.google.com/github/vistec-AI/colab/blob/master/OSCAR.ipynb"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Korakot Chaovavanich"
         ],
@@ -793,7 +793,7 @@
             "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
             "source": "https://github.com/PyThaiNLP/large-thaiword2vec"
         },
-        "license": "Apache-2.0 License",
+        "license": "Apache-2.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -819,7 +819,7 @@
             "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
             "source": "https://github.com/PyThaiNLP/large-thaiword2vec"
         },
-        "license": "Apache-2.0 License",
+        "license": "Apache-2.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -845,7 +845,7 @@
             "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
             "source": "https://github.com/PyThaiNLP/large-thaiword2vec"
         },
-        "license": "Apache-2.0 License",
+        "license": "Apache-2.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -864,14 +864,14 @@
     "test_zip": {
         "name": "test_zip",
         "latest_version": "0.1",
-        "description": "It's a test file.",
-        "long_description": "A handy dummy corpus used for testing (like in unit testing) purpose.",
+        "description": "It's a test file",
+        "long_description": "A handy dummy corpus used for testing (like in unit testing) purpose",
         "url": "https://github.com/PyThaiNLP/pythainlp-corpus/",
         "project_urls": {
             "project_page": "https://www.thainlp.org/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -890,14 +890,14 @@
     "onnx_lst20ner": {
         "name": "onnx_lst20ner",
         "latest_version": "1.0",
-        "description": "lst20 ner model",
-        "long_description": "This is lst20 ner model from wangchanberta. It is onnx model.",
+        "description": "LST20 NER model",
+        "long_description": "This is LST20 NER model from WangchanBERTa. It is ONNX model.",
         "url": "https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased",
         "project_urls": {
             "project_page": "https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased",
             "source": "https://github.com/vistec-AI/thai2transformers"
         },
-        "license": "Apache-2.0 License",
+        "license": "Apache-2.0",
         "authors": [
             "airesearch"
         ],
@@ -923,7 +923,7 @@
             "project_page": "https://github.com/vistec-AI/Thai-NNER",
             "source": "https://github.com/vistec-AI/Thai-NNER"
         },
-        "license": "CC-BY-SA 3.0",
+        "license": "CC-BY-SA-3.0",
         "authors": [
             "Weerayut Buaphet"
         ],
@@ -942,14 +942,14 @@
     "blackboard_unigram_tagger": {
         "name": "blackboard_unigram_tagger",
         "latest_version": "1.0",
-        "description": "part-of-speech tagging (unigram) from blackboard treebank.",
-        "long_description": "part-of-speech tagging (unigram) from blackboard treebank.",
+        "description": "Part-of-speech tagging (unigram) from Blackboard treebank",
+        "long_description": "Part-of-speech tagging (unigram) from Blackboard treebank",
         "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/blackboard_unigram_tagger-v1.0",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -968,14 +968,14 @@
     "blackboard_pt_tagger": {
         "name": "blackboard_pt_tagger",
         "latest_version": "1.0",
-        "description": "part-of-speech tagging (perceptron) from blackboard treebank.",
-        "long_description": "part-of-speech tagging (perceptron) from blackboard treebank.",
+        "description": "Part-of-speech tagging (perceptron) from Blackboard treebank",
+        "long_description": "Part-of-speech tagging (perceptron) from Blackboard treebank",
         "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/blackboard_pt_tagger-v1.0",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
         },
-        "license": "cc0-1.0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -994,14 +994,14 @@
     "thai_dict": {
         "name": "thai_dict",
         "latest_version": "1.0",
-        "description": "This dataset collect from Thai wiktionary.",
-        "long_description": "Thai dictionary from Thai wiktionary.",
+        "description": "Thai dictionary from Thai wiktionary",
+        "long_description": "Thai dictionary from Thai wiktionary",
         "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/thai_dict-v1.0",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
             "source": "https://github.com/PyThaiNLP/pythainlp-corpus/"
         },
-        "license": "CC BY-SA 4.0",
+        "license": "CC-BY-SA-4.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
@@ -1020,14 +1020,14 @@
     "thai_synonym": {
         "name": "thai_synonym",
         "latest_version": "1.0",
-        "description": "The synonym for thai (open source & open data)",
-        "long_description": "The synonym for thai (open source & open data)",
+        "description": "The synonym for Thai (open source & open data)",
+        "long_description": "The synonym for Thai (open source & open data)",
         "url": "https://github.com/PyThaiNLP/thai-synonym",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/thai-synonym",
             "source": "https://github.com/PyThaiNLP/thai-synonym"
         },
-        "license": "CC-0",
+        "license": "CC0-1.0",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
         ],
