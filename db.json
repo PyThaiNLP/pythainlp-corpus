@@ -190,8 +190,8 @@
     "thai2rom-dataset": {
         "name": "thai2rom-dataset",
         "latest_version": "0.1",
-        "description": "Thai romanization model",
-        "long_description": "-",
+        "description": "Thai romanization dataset",
+        "long_description": "Thai romanization dataset, used by thai2rom model",
         "url": "https://github.com/wannaphong/thai-romanization/",
         "authors": [
             "Wannaphong Phatthiyaphaibun"
@@ -316,8 +316,8 @@
     "wiki_itos_lstm": {
         "name": "wiki_itos_lstm",
         "latest_version": "0.32",
-        "description": "ULMFit index to text for LSTM",
-        "long_description": "ULMFit index to text for LSTM",
+        "description": "ULMFiT index to text for LSTM",
+        "long_description": "ULMFiT index to text for LSTM",
         "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
@@ -338,8 +338,8 @@
     "wiki_itos_lstm_json": {
         "name": "wiki_itos_lstm_json",
         "latest_version": "0.32",
-        "description": "ULMFit index to text for LSTM",
-        "long_description": "ULMFit index to text for LSTM",
+        "description": "ULMFiT index to text for LSTM",
+        "long_description": "ULMFiT index to text for LSTM",
         "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
@@ -360,8 +360,8 @@
     "wiki_lm_lstm": {
         "name": "wiki_lm_lstm",
         "latest_version": "0.32",
-        "description": "Wikipedia-pretrained ULMFit language model for LSTM",
-        "long_description": "Wikipedia-pretrained ULMFit language model for LSTM",
+        "description": "Wikipedia-pretrained ULMFiT language model for LSTM",
+        "long_description": "Wikipedia-pretrained ULMFiT language model for LSTM",
         "url": "https://github.com/cstorm125/thai2fit/",
         "authors": [
             "Charin Polpanumas"
@@ -460,7 +460,7 @@
     "scb_1m_en-th_spm": {
         "name": "scb_1m_en-th_spm",
         "latest_version": "1.0",
-        "description": "scb_1m_en-th_spm",
+        "description": "SCB_1M+TBASE_en-th_spm-spm",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
@@ -486,7 +486,7 @@
     "scb_en_th": {
         "name": "scb_en_th",
         "latest_version": "1.0",
-        "description": "scb_en-th",
+        "description": "SCB_1M+TBASE_en-th_moses-newmm",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
@@ -512,7 +512,7 @@
     "scb_th_en": {
         "name": "scb_th_en",
         "latest_version": "1.0",
-        "description": "scb_1m_th-en_spm",
+        "description": "SCB_1M+TBASE_th-en_spm-moses",
         "long_description": "-",
         "url": "https://airesearch.in.th/releases/machine-translation-models/",
         "project_urls": {
@@ -539,7 +539,7 @@
         "name": "pos_lst20_perceptron",
         "latest_version": "0.2.3",
         "description": "Perceptron POS tagger (LST20)",
-        "long_description": "Perceptron part-of-speech tagger from LST20 dataset. LST20 corpus are free for research and open source only. If you want to use in Commercial use, please contract NECTEC.",
+        "long_description": "Perceptron part-of-speech tagger from LST20 dataset. LST20 corpus are free for research and open source only. If you want to use in commercial use, please contact NECTEC.",
         "url": "https://github.com/PyThaiNLP/",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/",
@@ -581,7 +581,7 @@
         "name": "pos_lst20_unigram",
         "latest_version": "0.2.3",
         "description": "Unigram POS tagger (LST20)",
-        "long_description": "Unigram part-of-speech tagger from LST20 dataset. LST20 corpus are free for research and open source only. If you want to use in Commercial use, please contract NECTEC.",
+        "long_description": "Unigram part-of-speech tagger from LST20 dataset. LST20 corpus are free for research and open source only. If you want to use in commercial use, please contact NECTEC.",
         "url": "https://github.com/PyThaiNLP/",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/",
@@ -760,8 +760,8 @@
     "oscar_icu": {
         "name": "oscar_icu",
         "latest_version": "1.0",
-        "description": "Thai unigram word frequency from OSCAR Corpus (icu word tokenize)",
-        "long_description": "Thai unigram word frequency from OSCAR Corpus (icu word tokenize)",
+        "description": "Thai unigram word frequency from OSCAR Corpus (ICU word tokenize)",
+        "long_description": "Thai unigram word frequency from OSCAR Corpus (ICU word tokenize)",
         "url": "https://web.facebook.com/groups/colab.thailand/permalink/1524070061101680/?_rdc=1&_rdr",
         "project_urls": {
             "project_page": "https://web.facebook.com/groups/colab.thailand/permalink/1524070061101680/?_rdc=1&_rdr",
@@ -787,7 +787,7 @@
         "name": "ltw2v",
         "latest_version": "0.1",
         "description": "LTW2V: The Large Thai Word2Vec",
-        "long_description": "LTW2V is The large Thai Word2Vec. It built with oxidized-thainlp from OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
+        "long_description": "LTW2V is the large Thai Word2Vec. It built with oxidized-thainlp from OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
         "url": "https://github.com/PyThaiNLP/large-thaiword2vec",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
@@ -813,7 +813,7 @@
         "name": "ltw2v_v1.0_5_window",
         "latest_version": "1.0",
         "description": "LTW2V: The Large Thai Word2Vec v1.0 (5 window)",
-        "long_description": "LTW2V is The large Thai Word2Vec. It trained OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
+        "long_description": "LTW2V is the large Thai Word2Vec. It is trained OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
         "url": "https://github.com/PyThaiNLP/large-thaiword2vec",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
@@ -839,7 +839,7 @@
         "name": "ltw2v_v1.0_15_window",
         "latest_version": "1.0",
         "description": "LTW2V: The Large Thai Word2Vec v1.0 (15 window)",
-        "long_description": "LTW2V is The large Thai Word2Vec. It trained OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
+        "long_description": "LTW2V is the large Thai Word2Vec. It is trained OSCAR Corpus (Open Super-large Crawled Aggregated coRpus).",
         "url": "https://github.com/PyThaiNLP/large-thaiword2vec",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/large-thaiword2vec",
@@ -852,7 +852,7 @@
         "author_email": "wannaphong@yahoo.com",
         "versions": {
             "1.0": {
-                "filename": "LTW2V_v1.0-window5.bin",
+                "filename": "LTW2V_v1.0-window15.bin",
                 "download_url": "https://zenodo.org/record/7280277/files/LTW2V_v1.0-window15.bin",
                 "md5": "-",
                 "pythainlp_version": ">=3.0",
@@ -891,7 +891,7 @@
         "name": "onnx_lst20ner",
         "latest_version": "1.0",
         "description": "LST20 NER model",
-        "long_description": "This is LST20 NER model from WangchanBERTa. It is ONNX model.",
+        "long_description": "This is LST20 NER model from WangchanBERTa. It is an ONNX model.",
         "url": "https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased",
         "project_urls": {
             "project_page": "https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased",
@@ -994,8 +994,8 @@
     "thai_dict": {
         "name": "thai_dict",
         "latest_version": "1.0",
-        "description": "Thai dictionary from Thai wiktionary",
-        "long_description": "Thai dictionary from Thai wiktionary",
+        "description": "Thai dictionary from Thai Wiktionary",
+        "long_description": "Thai dictionary from Thai Wiktionary",
         "url": "https://github.com/PyThaiNLP/pythainlp-corpus/releases/tag/thai_dict-v1.0",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/pythainlp-corpus/",
@@ -1020,8 +1020,8 @@
     "thai_synonym": {
         "name": "thai_synonym",
         "latest_version": "1.0",
-        "description": "The synonym for Thai (open source & open data)",
-        "long_description": "The synonym for Thai (open source & open data)",
+        "description": "Thai synonyms (open source & open data)",
+        "long_description": "Thai synonyms (open source & open data)",
         "url": "https://github.com/PyThaiNLP/thai-synonym",
         "project_urls": {
             "project_page": "https://github.com/PyThaiNLP/thai-synonym",
